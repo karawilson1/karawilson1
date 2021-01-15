@@ -1,7 +1,13 @@
 h1 {
   background-color: #0047FF;
-  font-weight: 900
+  font-weight: 900;
+  font-size: 48px;
   font-color: #FFFFFF;
+}
+
+h2 {
+   font-size: 24px;
+   color: #0047FF
 }
 
 p {
@@ -9,4 +15,4 @@ p {
   font-weight: 400;
   font-size: 16px;
   color: #0047FF
-  }
+}
