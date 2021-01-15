@@ -1,4 +1,4 @@
-header {
+h1 {
   background-color: #0047FF;
   font-family: helvetica;
   font-weight: 900;
@@ -18,4 +18,5 @@ p {
   font-weight: 400;
   font-size: 14px;
   color: #0047FF;
+  width: 500px;
 }
