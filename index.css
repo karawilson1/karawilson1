@@ -9,6 +9,10 @@ h1 {
   background-color: #0047FF;
 }
 
+h1 {
+  width: 50%;
+}
+
 h2 {
    font-family: helvetica;
    font-weight: 500;
