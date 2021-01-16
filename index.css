@@ -9,6 +9,10 @@ h1 {
   background-color: #0047FF;
 }
 
+h1.hover {
+  color: #C6F8FF;
+}
+
 h1 {
   width: 50%;
 }
