@@ -51,10 +51,6 @@ div.sidebar {
   width: 20%;
 }
 
-div.sidebar: {
-  background-color: #000000;
-}
-
 div.content {
   float: left;
   width: 40%;
