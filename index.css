@@ -3,12 +3,15 @@ h1 {
   font-weight: 900;
   font-size: 48px;
   color: #FFFFFF;
-  width: 50%;
   margin: 20px;
 }
 
 h1 {
   background-color: #0047FF;
+}
+
+h1 {
+  width: 50%;
 }
 
 h1.hover {
@@ -34,6 +37,10 @@ p {
   font-size: 14px;
   color: #0047FF;
   margin: 20px;
+}
+
+p {
+  width:50%;
 }
 
 a {
