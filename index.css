@@ -38,4 +38,9 @@ p {
 
 a {
   color: #CC32E5;
+  text-decoration: none;
+}
+
+a.hover {
+  color: #FFDA1A
 }
