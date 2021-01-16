@@ -56,9 +56,3 @@ div.content {
   width: 40%;
   text-align: justify;
 }
-
-div.filler {
-  float: right;
-  width: 40%; 
-  color: #000000;
-}
