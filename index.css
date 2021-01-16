@@ -3,6 +3,7 @@ h1 {
   font-weight: 900;
   font-size: 48px;
   color: #FFFFFF;
+  width: 50%;
   margin: 20px;
 }
 
@@ -10,7 +11,7 @@ h1 {
   background-color: #0047FF;
 }
 
-h1 a.hover {
+h1.hover {
   background-color: #C6F8FF;
 }
 
@@ -20,6 +21,7 @@ h2 {
    font-size: 20px;
    color: #0047FF;
    margin: 20px;
+   width: 50%;
 }
 
 h2 {
