@@ -45,3 +45,17 @@ a {
 a:hover {
   color: #FFDA1A;
 }
+
+section {
+  overflow: hidden;
+}
+
+div.sidebar {
+  float: left;
+  width: 20%;
+}
+
+div.content {
+  float: right;
+  width: 50%
+}
