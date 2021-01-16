@@ -53,7 +53,6 @@ section {
 div.sidebar {
   float: left;
   width: 30%;
-  white-space: nowrap;
 }
 
 div.sidebar: {
