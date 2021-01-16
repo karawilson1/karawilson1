@@ -56,11 +56,12 @@ div.sidebar: {
 }
 
 div.content {
-  float: right;
+  float: left;
   width: 40%;
 }
 
 div.filler {
+  float: right;
   width: 30%; 
   color: #000000;
 }
