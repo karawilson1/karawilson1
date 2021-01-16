@@ -2,20 +2,12 @@ h1 {
   font-family: helvetica;
   font-weight: 900;
   font-size: 48px;
-  color: #FFFFFF;
+  color: #0047FF;
   margin: 20px;
 }
 
 h1 {
-  background-color: #0047FF;
-}
-
-h1 {
   width: 50%;
-}
-
-h1.hover {
-  background-color: #C6F8FF;
 }
 
 h2 {
