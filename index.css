@@ -54,6 +54,7 @@ div.sidebar {
 div.content {
   float: right;
   width: 40%;
+  text-align: justify;
 }
 
 div.filler {
