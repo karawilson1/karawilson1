@@ -23,11 +23,19 @@ h2 {
   border-bottom: 3px solid #FFDA1A;
 }
 
+nav {
+  font-family: helvetica; 
+  font-weight: 400;
+  font-size: 18px;
+  color: #0047FF;
+}
+  
 p {
   font-family: helvetica;
   font-weight: 400;
   font-size: 14px;
   color: #0047FF;
+  width: 40%
   margin: 20px;
   text-align: left;
 }
@@ -53,6 +61,6 @@ div.sidebar {
 
 div.content {
   float: right;
-  width: 40%;
+  width: 80%;
   text-align: justify;
 }
