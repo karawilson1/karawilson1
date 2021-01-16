@@ -22,6 +22,7 @@ h2 {
    font-weight: 500;
    font-size: 20px;
    color: #0047FF;
+   margin: 20px;
 }
 
 p {
@@ -30,8 +31,5 @@ p {
   font-size: 14px;
   color: #0047FF;
   width: 50%;
-}
-
-body {
   margin: 20px;
 }
