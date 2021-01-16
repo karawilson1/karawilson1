@@ -14,10 +14,6 @@ h1 a.hover {
   background-color: #C6F8FF;
 }
 
-h1 {
-  width: 50%;
-}
-
 h2 {
    font-family: helvetica;
    font-weight: 500;
@@ -37,6 +33,7 @@ p {
   color: #0047FF;
   width: 50%;
   margin: 20px;
+  text-align: center;
 }
 
 a {
