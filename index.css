@@ -36,7 +36,7 @@ p {
   font-size: 14px;
   color: #0047FF;
   margin: 20px;
-  text-align: left;
+  text-align: justify;
 }
 
 p {
@@ -65,5 +65,4 @@ div.sidebar {
 div.content {
   float: right;
   width: 70%;
-  text-align: justify;
 }
