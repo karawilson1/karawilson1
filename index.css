@@ -26,6 +26,10 @@ h2 {
    margin: 20px;
 }
 
+h2 {
+  border-bottom: 3px solid #FFDA1A;
+}
+
 p {
   font-family: helvetica;
   font-weight: 400;
