@@ -56,6 +56,10 @@ div.sidebar {
   white-space: nowrap;
 }
 
+div.sidebar: {
+  background-color: #000000;
+}
+
 div.content {
   float: right;
   width: 80%;
