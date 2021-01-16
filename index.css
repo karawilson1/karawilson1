@@ -37,8 +37,9 @@ p {
 a {
   color: #CC32E5;
   text-decoration: none;
+  transition: color 0.5s;
 }
 
 a.hover {
-  color: #FFDA1A
+  color: #FFDA1A;
 }
