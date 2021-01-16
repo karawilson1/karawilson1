@@ -35,9 +35,12 @@ p {
   font-weight: 400;
   font-size: 14px;
   color: #0047FF;
-  width: 40%
   margin: 20px;
   text-align: left;
+}
+
+p {
+  width: 40%;
 }
 
 a {
