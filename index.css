@@ -48,7 +48,7 @@ section {
 
 div.sidebar {
   float: left;
-  width: 30%;
+  width: 20%;
 }
 
 div.sidebar: {
@@ -57,5 +57,9 @@ div.sidebar: {
 
 div.content {
   float: right;
-  width: 70%;
+  width: 40%;
+}
+
+div.filler {
+  width: 30%; 
 }
