@@ -52,7 +52,7 @@ section {
 
 div.sidebar {
   float: left;
-  width: 20%;
+  width: 40%;
   white-space: nowrap;
 }
 
@@ -62,5 +62,5 @@ div.sidebar: {
 
 div.content {
   float: right;
-  width: 80%;
+  width: 60%;
 }
