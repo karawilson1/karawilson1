@@ -2,7 +2,12 @@ h1 {
   font-family: helveticaneue;
   font-weight: 900;
   font-size: 48px;
-  color: #0047FF;
+  background-color: #0047FF;
+  color: #000000;
+}
+
+h1:hover {
+  background-color: #BCFF4F;
 }
 
 h1 {
