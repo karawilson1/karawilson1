@@ -193,3 +193,15 @@ nav a.button4:hover {
   margin: 5px 0px 5px 0px;
   border-radius: 15px;
 }
+
+nav a.emailbutton {
+  display: inline-block;
+  width: 100px;
+  background-color: #FFFFFF;
+  color: #0047FF;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  margin: 5px 0px 5px 0px;
+  border-radius: 15px;
+  border: 3ps dashed #0047FF;
+}
