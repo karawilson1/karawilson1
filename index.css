@@ -10,6 +10,10 @@ h1 {
   transition: color 0.5s;
 }
 
+h1 {
+  cursor: url(Frame 117blue circle.png)
+}
+
 h1:hover {
   background-color: #BCFF4F;
   color: #0047FF;
