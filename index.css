@@ -56,11 +56,6 @@ section {
   overflow: hidden;
 }
 
-h2 {
-  float: left;
-  width: 30%;
-}
-
 div.sidebar {
   float: left;
   width: 30%;
