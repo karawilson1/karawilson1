@@ -86,7 +86,7 @@ div.content {
   }
 }
 
-nav a.button {
+nav a.button1 {
   display: inline-block;
   width: 50px;
   background-color: #BCFF4F;
@@ -97,7 +97,73 @@ nav a.button {
   border-radius: 15px;
 }
 
-nav a.button:hover {
+nav a.button1:hover {
+  display: inline-block;
+  width: 100px;
+  background-color: #FFDA1A;
+  color: black;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  margin: 5px 0px 5px 0px;
+  border-radius: 15px;
+}
+
+nav a.button2 {
+  display: inline-block;
+  width: 50px;
+  background-color: #BCFF4F;
+  color: black;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  margin: 5px 0px 5px 0px;
+  border-radius: 15px;
+}
+
+nav a.button2:hover {
+  display: inline-block;
+  width: 100px;
+  background-color: #FFDA1A;
+  color: black;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  margin: 5px 0px 5px 0px;
+  border-radius: 15px;
+}
+
+nav a.button3 {
+  display: inline-block;
+  width: 50px;
+  background-color: #BCFF4F;
+  color: black;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  margin: 5px 0px 5px 0px;
+  border-radius: 15px;
+}
+
+nav a.button3:hover {
+  display: inline-block;
+  width: 100px;
+  background-color: #FFDA1A;
+  color: black;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  margin: 5px 0px 5px 0px;
+  border-radius: 15px;
+}
+
+nav a.button4 {
+  display: inline-block;
+  width: 50px;
+  background-color: #BCFF4F;
+  color: black;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  margin: 5px 0px 5px 0px;
+  border-radius: 15px;
+}
+
+nav a.button4:hover {
   display: inline-block;
   width: 100px;
   background-color: #FFDA1A;
