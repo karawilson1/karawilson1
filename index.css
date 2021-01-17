@@ -95,6 +95,7 @@ nav a.button1 {
   padding: 10px 20px 10px 20px;
   margin: 5px 0px 5px 0px;
   border-radius: 15px;
+  transition: width 0.5s;
 }
 
 nav a.button1:hover {
@@ -117,6 +118,7 @@ nav a.button2 {
   padding: 10px 20px 10px 20px;
   margin: 5px 0px 5px 0px;
   border-radius: 15px;
+  transition: width 0.5s;
 }
 
 nav a.button2:hover {
@@ -139,6 +141,7 @@ nav a.button3 {
   padding: 10px 20px 10px 20px;
   margin: 5px 0px 5px 0px;
   border-radius: 15px;
+  transition: width 0.5s;
 }
 
 nav a.button3:hover {
@@ -161,6 +164,7 @@ nav a.button4 {
   padding: 10px 20px 10px 20px;
   margin: 5px 0px 5px 0px;
   border-radius: 15px;
+  transition: width 0.5s;
 }
 
 nav a.button4:hover {
