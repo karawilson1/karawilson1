@@ -86,7 +86,7 @@ div.content {
   }
 }
 
-nav a.button1 {
+nav a.button {
   display: inline-block;
   width: 50px;
   background-color: #BCFF4F;
@@ -97,30 +97,7 @@ nav a.button1 {
   border-radius: 15px;
 }
 
-nav a.button2 {
-  display: inline-block;
-  width: 50px;
-  background-color: #BCFF4F;
-  color: black;
-  text-align: center;
-  padding: 10px 20px 10px 20px;
-  margin: 5px 0px 5px 0px;
-  border-radius: 15px;
-}
-
-nav a.button1:hover {
-  display: inline-block;
-  width: 100px;
-  background-color: #FFDA1A;
-  color: black;
-  text-align: center;
-  padding: 10px 20px 10px 20px;
-  margin: 5px 0px 5px 0px;
-  border-radius: 15px;
-}
-
-
-nav a.button2:hover {
+nav a.button:hover {
   display: inline-block;
   width: 100px;
   background-color: #FFDA1A;
