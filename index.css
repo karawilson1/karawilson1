@@ -22,6 +22,14 @@ h2 {
    padding: 0px 0px;
 }
 
+h3 {
+   font-family: monospace;
+   font-weight: 500;
+   font-size: 21px;
+   color: #0047FF;
+   padding: 0px 0px;
+}
+
 nav {
   font-family: helveticaneue; 
   font-weight: 400;
