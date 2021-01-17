@@ -60,3 +60,19 @@ div.content {
   float: right;
   width: 70%;
 }
+
+@media (max-width: 960px) {
+  section {
+    width: auto; 
+  }
+  
+  div.content {
+    float: none;
+    width: auto;
+  }
+  
+  div.sidebar {
+    float: none;
+    width: auto;
+  }
+}
