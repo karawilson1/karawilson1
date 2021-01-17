@@ -5,6 +5,7 @@ h1 {
   background-color: #0047FF;
   color: #FFFFFF;
   text-align: center;
+  transition: background-color 0.5s;
 }
 
 h1:hover {
