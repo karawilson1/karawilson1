@@ -4,14 +4,11 @@ h1 {
   font-size: 48px;
   background-color: #0047FF;
   color: #FFFFFF;
+  text-align: center;
 }
 
 h1:hover {
   background-color: #BCFF4F;
-}
-
-h1 {
-  width: 50%;
 }
 
 h2 {
