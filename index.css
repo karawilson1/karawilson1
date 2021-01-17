@@ -41,7 +41,6 @@ p {
 a {
   color: red;
   text-decoration: none;
-  transition: color 0.5s;
 }
 
 a:hover {
