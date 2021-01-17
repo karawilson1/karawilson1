@@ -64,6 +64,7 @@ div.content {
 div.content {
   position: absolute;
   top: 50px;
+  left: 340px;
 }
 
 @media (max-width: 960px) {
