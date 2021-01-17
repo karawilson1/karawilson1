@@ -2,6 +2,7 @@ h1 {
   font-family: monospace;
   font-weight: 900;
   font-size: 36px;
+  text-transform: uppercase;
   background-color: #0047FF;
   color: #FFFFFF;
   text-align: center;
