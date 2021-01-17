@@ -197,6 +197,20 @@ nav a.button4:hover {
 h2 a.emailbutton {
   display: inline-block;
   width: 100px;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  color: #0047FF;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  margin: 5px 0px 5px 0px;
+  border-radius: 15px;
+  border: 3px dashed #0047FF;
+}
+
+h2 a.emailbutton:hover {
+  display: inline-block;
+  width: 100px;
+  font-size: 16px;
   background-color: #FFFFFF;
   color: #0047FF;
   text-align: center;
