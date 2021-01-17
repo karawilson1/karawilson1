@@ -61,6 +61,11 @@ div.content {
   width: 70%;
 }
 
+div.content {
+  position: relative;
+  bottom: 100px;
+}
+
 @media (max-width: 960px) {
   section {
     width: auto; 
