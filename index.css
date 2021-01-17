@@ -211,6 +211,7 @@ h2 a.emailbutton:hover {
   display: inline-block;
   width: 100px;
   font-size: 16px;
+  font-style: italic;
   background-color: white;
   color: #BCFF4F;
   text-align: center;
