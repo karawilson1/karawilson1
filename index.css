@@ -76,3 +76,23 @@ div.content {
     width: auto;
   }
 }
+
+nav a.button1 {
+  display: inline-block;
+  width: 100px;
+  background-color: #BCFF4F;
+  color: black;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  border-radius: 15px;
+}
+
+nav a.button2 {
+  display: inline-block;
+  width: 100px;
+  background-color: #BCFF4F;
+  color: black;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  border-radius: 15px;
+}
