@@ -50,6 +50,7 @@ a {
 
 a:hover {
   color: #FFDA1A;
+  font-size: 120%;
 }
 
 section {
@@ -90,6 +91,7 @@ div.content {
 
 nav a.button1 {
   display: inline-block;
+  font-size: 12px;
   width: 50px;
   background-color: #BCFF4F;
   color: #0047FF;
@@ -113,6 +115,7 @@ nav a.button1:hover {
 
 nav a.button2 {
   display: inline-block;
+  font-size: 12px;
   width: 50px;
   background-color: #BCFF4F;
   color: #0047FF;
@@ -136,6 +139,7 @@ nav a.button2:hover {
 
 nav a.button3 {
   display: inline-block;
+  font-size: 12px;
   width: 50px;
   background-color: #BCFF4F;
   color: #0047FF;
@@ -159,6 +163,7 @@ nav a.button3:hover {
 
 nav a.button4 {
   display: inline-block;
+  font-size: 12px;
   width: 50px;
   background-color: #BCFF4F;
   color: #0047FF;
