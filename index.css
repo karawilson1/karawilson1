@@ -194,7 +194,7 @@ nav a.button4:hover {
   border-radius: 15px;
 }
 
-nav a.emailbutton {
+h2 a.emailbutton {
   display: inline-block;
   width: 100px;
   background-color: #FFFFFF;
