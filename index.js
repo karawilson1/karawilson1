@@ -1,3 +1,3 @@
-function sayHello('text') {
-  console.log('Hello' + 'text')
+function takeSongRequest('string') {
+  console.log('Thank you.' + string + 'will be reviewed for Quarantunes by Kara herself.')
 }
