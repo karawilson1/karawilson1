@@ -13,11 +13,15 @@ h1 {
 @keyframes blink {
   0% {
     background-color: #BCFF4F;
-    color: black
+    color: black;
   }
-  100% {
+  50% {
     background-color: black;
     color: #BCFF4F;
+    
+   100% {
+    background-color: #BCFF4F;
+    color: black;
   }
 
 h2 {
