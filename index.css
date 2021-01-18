@@ -3,8 +3,8 @@ h1 {
   font-weight: 300;
   font-size: 36px;
   text-transform: uppercase;
-  background-color: black;
-  color: #FFFFFF;
+  background-color: #BCFF4F;
+  color: black;
   text-align: center;
   transition: background-color 0.5s;
   transition: color 0.5s;
@@ -12,8 +12,8 @@ h1 {
 }
 
 h1:hover {
-  background-color: #BCFF4F;
-  color: black;
+  background-color: black;
+  color: white;
 }
 
 h2 {
