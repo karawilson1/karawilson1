@@ -206,5 +206,6 @@ input {
   color: #0047FF;
   font-family: monospace;
   border: 1px dashed black;
+  border-radius: 15px;
   padding: 10px 10px 10px 10px;
 }
