@@ -208,4 +208,5 @@ input {
   border: 1px dashed black;
   border-radius: 15px;
   padding: 10px 10px 10px 10px;
+  align: center;
 }
