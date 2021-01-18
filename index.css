@@ -85,10 +85,10 @@ div.content {
     width: auto; 
   }
   
-  div.content {
-    float: none;
-    width: auto;
-  }
+    div.content {
+     float: none;
+     width: auto;
+    }
   
   div.sidebar {
     float: none;
