@@ -82,7 +82,7 @@ div.content {
   left: 380px;
 }
 
-@media screen and (max-width: 960px) {
+@media (max-width: 960px) {
   div.sidebar {width: auto; float: none;}
   div.content {width: auto; float: none;}
 }
