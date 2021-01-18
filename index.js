@@ -1,3 +1,3 @@
-function sayHello("text") {
+function sayHello('text') {
   console.log('Hello' + 'text')
 }
