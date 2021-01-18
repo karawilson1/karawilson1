@@ -70,6 +70,7 @@ div.content {
 }
 
 @media (max-width: 960px) {
+  h1 {width: auto; float: none;}
   section {width: auto; float: none;}
 }
 
