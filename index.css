@@ -76,9 +76,9 @@ div.content {
 } 
 
 @media (max-width: 960px) {
-  h1 {width: auto; float: none;}
-  div.sidebar {width: auto; float: none;}
-  div.content {width: auto; float: none;}
+  h1 {width: 920px; float: none;}
+  div.sidebar {width: 920px; float: none;}
+  div.content {width: 920px; float: none;}
 }
 
 nav a.button1 {
