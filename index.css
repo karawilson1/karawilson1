@@ -202,6 +202,6 @@ h2 a.emailbutton:hover {
   border: 1px dashed #BCFF4F;
 }
 
-body { 
-    cursor: url(file:///Users/karawilson/Desktop/Frame%20117blue%20circle.png); 
-} 
+form {
+  border: 1px dashed black;
+}
