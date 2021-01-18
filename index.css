@@ -59,6 +59,7 @@ a {
 a:hover {
   color: #BCFF4F;
   font-size: 120%;
+  font-family: monospace;
 }
 
 section {
