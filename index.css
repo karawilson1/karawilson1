@@ -217,3 +217,9 @@ h2 a.emailbutton:hover {
   border-radius: 15px;
   border: 3px dashed #BCFF4F;
 }
+
+body { 
+    background-image: url(file:///Users/karawilson/Desktop/Frame%20117blue%20circle.png); 
+    background-repeat: repeat; 
+    background-size: 10px 10px; 
+} 
