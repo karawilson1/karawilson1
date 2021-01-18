@@ -202,12 +202,9 @@ h2 a.emailbutton:hover {
   border: 1px dashed #BCFF4F;
 }
 
-form {
-  border: 1px dashed black;
-  padding: 10px 10px 10px 10px;
-}
-
 input {
   color: #0047FF;
   font-family: monospace;
+  border: 1px dashed black;
+  padding: 10px 10px 10px 10px;
 }
