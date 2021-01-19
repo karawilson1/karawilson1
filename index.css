@@ -149,7 +149,7 @@ section {
   text-align: left;
 }
 
-h2 a.emailbutton {
+a.emailbutton {
   display: inline-block;
   font-family: helvelticaneue;
   width: 200px;
@@ -163,7 +163,7 @@ h2 a.emailbutton {
   border: 1px dashed #0047FF;
 }
 
-h2 a.emailbutton:hover {
+a.emailbutton:hover {
   display: inline-block;
   font-family: helvelticaneue;
   width: 200px;
