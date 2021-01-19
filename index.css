@@ -236,4 +236,5 @@ nav a.button5:hover {
   padding: 10px 20px 10px 20px;
   margin: 5px 0px 5px 0px;
   border-radius: 15px;
+  cursor: pointer;
 }
