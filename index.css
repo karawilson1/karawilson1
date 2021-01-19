@@ -11,6 +11,7 @@ h1 {
 
 h2 a.1 {
   display: inline-block;
+  font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
   background-color: black;
@@ -24,10 +25,11 @@ h2 a.1 {
 
 h2 a.1:hover {
   display: inline-block;
+  font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: #BCFF4F;
-  color: black;
+  background-color: black;
+  color: #FF4F04;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
@@ -37,6 +39,7 @@ h2 a.1:hover {
 
 h2 a.2 {
   display: inline-block;
+  font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
   background-color: black;
@@ -50,10 +53,11 @@ h2 a.2 {
 
 h2 a.2:hover {
   display: inline-block;
+  font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: #BCFF4F;
-  color: black;
+  background-color: black;
+  color: #FF4F04;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
@@ -63,6 +67,7 @@ h2 a.2:hover {
 
 h2 a.3 {
   display: inline-block;
+  font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
   background-color: black;
@@ -76,10 +81,11 @@ h2 a.3 {
 
 h2 a.3:hover {
   display: inline-block;
+  font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: #BCFF4F;
-  color: black;
+  background-color: black;
+  color: #FF4F04;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
@@ -89,6 +95,7 @@ h2 a.3:hover {
 
 h2 a.4 {
   display: inline-block;
+  font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
   background-color: black;
@@ -102,10 +109,11 @@ h2 a.4 {
 
 h2 a.4:hover {
   display: inline-block;
+  font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: #BCFF4F;
-  color: black;
+  background-color: black;
+  color: #FF4F04;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
