@@ -25,7 +25,7 @@ a.page1 {
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 30px;
+  border-radius: 15px;
   transition: width 0.5s;
 }
 
@@ -39,7 +39,7 @@ a.page1:hover {
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 30px;
+  border-radius: 15px;
   transition: width 0.5s;
 }
 
@@ -53,7 +53,7 @@ a.page2 {
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 30px;
+  border-radius: 15px;
   transition: width 0.5s;
 }
 
@@ -67,7 +67,7 @@ a.page2:hover {
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 30px;
+  border-radius: 15px;
   transition: width 0.5s;
 }
 
@@ -81,7 +81,7 @@ a.page3 {
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 30px;
+  border-radius: 15px;
   transition: width 0.5s;
 }
 
@@ -95,7 +95,7 @@ a.page3:hover {
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 30px;
+  border-radius: 15px;
   transition: width 0.5s;
 }
 
@@ -109,7 +109,7 @@ a.page4 {
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 30px;
+  border-radius: 15px;
   transition: width 0.5s;
 }
 
@@ -123,7 +123,7 @@ a.page4:hover {
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 30px;
+  border-radius: 15px;
   transition: width 0.5s;
 }
 
