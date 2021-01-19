@@ -157,7 +157,7 @@ a.emailbutton {
   background-color: #FFFFFF;
   color: #0047FF;
   text-align: center;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px 10px 10px;
   margin: 5px 0px 5px 20px;
   border-radius: 15px;
   border: 1px dashed #0047FF;
@@ -173,7 +173,7 @@ a.emailbutton:hover {
   color: black;
   text-align: center;
   padding: 10px 20px 10px 20px;
-  margin: 5px 0px 5px 20px;
+  margin: 5px 0px 5px 10px;
   border-radius: 15px;
   border: none;
 }
