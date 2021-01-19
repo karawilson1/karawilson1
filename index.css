@@ -9,6 +9,32 @@ h1 {
   margin: 20px;
 }
 
+h1 a.1. {
+  display: inline-block;
+  font-size: 12px;
+  width: 30px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 30px;
+  transition: width 0.5s;
+}
+
+h1 a.1.:hover {
+  display: inline-block;
+  font-size: 12px;
+  width: 30px;
+  background-color: #BCFF4F;
+  color: black;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 30px;
+  transition: width 0.5s;
+}
+
 h2 {
    font-family: monospace;
    font-weight: 700;
