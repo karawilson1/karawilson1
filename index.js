@@ -1,4 +1,4 @@
 $("form").on("return", function () {
-  $("input").html("Your request has been submitted.")
+  $("text").html("Your request has been submitted.")
   
   )}
