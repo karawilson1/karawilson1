@@ -1,5 +1,5 @@
-$("button5").on("click", function () {
-  $("value").html("Your song request has been submitted.")
+$("form").on("keypress", function () {
+  $("text").html("Your song request has been submitted.")
   
   )}
 
