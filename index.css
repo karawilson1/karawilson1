@@ -214,29 +214,26 @@ input {
   align: center;
 }
 
-h2 a.button5 {
+nav a.button5 {
   display: inline-block;
-  width: 100px;
-  font-size: 16px;
-  background-color: #FFFFFF;
-  color: #0047FF;
+  font-size: 12px;
+  width: 50px;
+  background-color: black;
+  color: white;
   text-align: center;
   padding: 10px 20px 10px 20px;
   margin: 5px 0px 5px 0px;
   border-radius: 15px;
-  border: 1px dashed #0047FF;
+  transition: width 0.5s;
 }
 
-h2 a.button5:hover {
+nav a.button5:hover {
   display: inline-block;
   width: 100px;
-  font-size: 16px;
-  font-style: italic;
-  background-color: white;
+  background-color: #BCFF4F;
   color: black;
   text-align: center;
   padding: 10px 20px 10px 20px;
   margin: 5px 0px 5px 0px;
   border-radius: 15px;
-  border: 1px dashed #BCFF4F;
 }
