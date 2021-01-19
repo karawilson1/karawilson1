@@ -4,23 +4,23 @@ h1 {
   font-size: 64px;
   color: white;
   text-align: left;
-  margin: 10px 20px 10px 10px;
+  margin: 5px 5px 5px 5px;
 }
 
 h2 {
   font-family: helveticaneue;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 8px;
   color: white;
   text-align: left;
-  margin: 10px 20px 10px 10px;
+  margin: 5px 0px 10px 0px;
 }
 
 h3 {
   font-family: helveticaneue;
   font-weight: 300;
-  font-size: 32px;
+  font-size: 16px;
   color: white;
   text-align: left;
-  margin: 10px 20px 10px 10px;
+  margin: 5px;
 }
