@@ -19,7 +19,7 @@ a.page1 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
-  width: 300px;
+  width: 200px;
   background-color: #0047FF;
   color: white;
   text-align: center;
@@ -33,7 +33,7 @@ a.page1:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
-  width: 300px;
+  width: 200px;
   background-color: #DCFF04;
   color: black;
   text-align: center;
@@ -47,7 +47,7 @@ a.page2 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
-  width: 300px;
+  width: 200px;
   background-color: #0047FF;
   color: white;
   text-align: center;
@@ -61,7 +61,7 @@ a.page2:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
-  width: 300px;
+  width: 200px;
   background-color: #DCFF04;
   color: black;
   text-align: center;
@@ -75,7 +75,7 @@ a.page3 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
-  width: 300px;
+  width: 200px;
   background-color: #0047FF;
   color: white;
   text-align: center;
@@ -89,7 +89,7 @@ a.page3:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
-  width: 300px;
+  width: 200px;
   background-color: #DCFF04;
   color: black;
   text-align: center;
@@ -103,7 +103,7 @@ a.page4 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
-  width: 300px;
+  width: 200px;
   background-color: #0047FF;
   color: white;
   text-align: center;
@@ -117,7 +117,7 @@ a.page4:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
-  width: 300px;
+  width: 200px;
   background-color: #DCFF04;
   color: black;
   text-align: center;
