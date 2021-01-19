@@ -20,7 +20,7 @@ a.page1 {
   font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: black;
+  background-color: #0047FF;
   color: white;
   text-align: center;
   padding: 10px 10px 10px 10px;
@@ -34,8 +34,8 @@ a.page1:hover {
   font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: black;
-  color: #FF4F04;
+  background-color: #DCFF04;
+  color: black;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 20px;
@@ -48,7 +48,7 @@ a.page2 {
   font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: black;
+  background-color: #0047FF;
   color: white;
   text-align: center;
   padding: 10px 10px 10px 10px;
@@ -62,8 +62,8 @@ a.page2:hover {
   font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: black;
-  color: #FF4F04;
+  background-color: #DCFF04;
+  color: black;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
@@ -76,7 +76,7 @@ a.page3 {
   font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: black;
+  background-color: #0047FF;
   color: white;
   text-align: center;
   padding: 10px 10px 10px 10px;
@@ -90,8 +90,8 @@ a.page3:hover {
   font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: black;
-  color: #FF4F04;
+  background-color: #DCFF04;
+  color: black;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
@@ -104,7 +104,7 @@ a.page4 {
   font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: black;
+  background-color: #0047FF;
   color: white;
   text-align: center;
   padding: 10px 10px 10px 10px;
@@ -118,8 +118,8 @@ a.page4:hover {
   font-family: helveticaneue;
   font-size: 12px;
   width: 30px;
-  background-color: black;
-  color: #FF4F04;
+  background-color: #DCFF04;
+  color: black;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
@@ -169,11 +169,10 @@ h2 a.emailbutton:hover {
   width: 200px;
   font-size: 32px;
   font-style: italic;
-  background-color: white;
-  color: #FF4F04;
+  background-color: #DCFF04;
+  color: black;
   text-align: center;
   padding: 10px 20px 10px 20px;
   margin: 5px 0px 5px 20px;
   border-radius: 15px;
-  border: 1px dashed #FF4F04;
 }
