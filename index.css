@@ -206,10 +206,37 @@ h2 a.emailbutton:hover {
 
 input {
   color: #0047FF;
-  width: 300px;
+  width: 200px;
   font-family: monospace;
   border: 1px dashed black;
   border-radius: 15px;
   padding: 10px 10px 10px 10px;
   align: center;
+}
+
+h2 a.button5 {
+  display: inline-block;
+  width: 100px;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  color: #0047FF;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  margin: 5px 0px 5px 0px;
+  border-radius: 15px;
+  border: 1px dashed #0047FF;
+}
+
+h2 a.button5:hover {
+  display: inline-block;
+  width: 100px;
+  font-size: 16px;
+  font-style: italic;
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  margin: 5px 0px 5px 0px;
+  border-radius: 15px;
+  border: 1px dashed #BCFF4F;
 }
