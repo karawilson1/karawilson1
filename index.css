@@ -7,7 +7,15 @@ h1 {
   margin: 10px 20px 20px 10px;
 }
 
-div a.page1 {
+h2 {
+  font-family: helvetica-neue;
+  font-weight: 300;
+  font-size: 32px;
+  color: #0047FF;
+  margin: 10px 20px 20px 10px;
+}
+
+a.page1 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
@@ -21,7 +29,7 @@ div a.page1 {
   transition: width 0.5s;
 }
 
-div a.page1:hover {
+a.page1:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
@@ -35,7 +43,7 @@ div a.page1:hover {
   transition: width 0.5s;
 }
 
-div a.page2 {
+a.page2 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
@@ -49,7 +57,7 @@ div a.page2 {
   transition: width 0.5s;
 }
 
-div a.page2:hover {
+a.page2:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
@@ -63,7 +71,7 @@ div a.page2:hover {
   transition: width 0.5s;
 }
 
-div a.page3 {
+a.page3 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
@@ -77,7 +85,7 @@ div a.page3 {
   transition: width 0.5s;
 }
 
-div a.page3:hover {
+a.page3:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
@@ -91,7 +99,7 @@ div a.page3:hover {
   transition: width 0.5s;
 }
 
-div a.page4 {
+a.page4 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
@@ -105,7 +113,7 @@ div a.page4 {
   transition: width 0.5s;
 }
 
-div a.page4:hover {
+a.page4:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 12px;
