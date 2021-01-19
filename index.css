@@ -152,7 +152,7 @@ section {
 h2 a.emailbutton {
   display: inline-block;
   font-family: helvelticaneue;
-  width: 100px;
+  width: 200px;
   font-size: 32px;
   background-color: #FFFFFF;
   color: #0047FF;
@@ -166,14 +166,14 @@ h2 a.emailbutton {
 h2 a.emailbutton:hover {
   display: inline-block;
   font-family: helvelticaneue;
-  width: 100px;
+  width: 200px;
   font-size: 32px;
   font-style: italic;
   background-color: white;
-  color: black;
+  color: #FF4F04;
   text-align: center;
   padding: 10px 20px 10px 20px;
   margin: 5px 0px 5px 20px;
   border-radius: 15px;
-  border: 1px dashed #BCFF4F;
+  border: 1px dashed #FF4F04;
 }
