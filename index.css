@@ -152,7 +152,7 @@ section {
 a.emailbutton {
   display: inline-block;
   font-family: helvelticaneue;
-  transform: rotate(-10deg);
+  transform: rotate(10deg);
   width: 200px;
   font-size: 32px;
   background-color: #FFFFFF;
@@ -167,7 +167,7 @@ a.emailbutton {
 a.emailbutton:hover {
   display: inline-block;
   font-family: helvelticaneue;
-  transform: rotate(-10deg);
+  transform: rotate(10deg);
   width: 200px;
   font-size: 32px;
   font-style: italic;
@@ -178,4 +178,10 @@ a.emailbutton:hover {
   margin: 5px 0px 5px 10px;
   border-radius: 60px;
   border: none;
+}
+
+emailbutton {
+  position: absolute;
+  top: 70%;
+  right: 10px;
 }
