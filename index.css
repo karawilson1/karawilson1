@@ -182,6 +182,6 @@ a.emailbutton:hover {
 
 emailbutton {
   position: absolute;
-  top: 70%;
+  top: 500px;
   right: 10px;
 }
