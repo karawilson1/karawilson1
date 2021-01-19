@@ -1,7 +1,7 @@
 h1 {
   font-family: helveticaneue;
   font-weight: 300;
-  font-size: 36px;
+  font-size: 64px;
   text-transform: uppercase;
   color: #0047FF;
   text-align: left;
@@ -9,7 +9,7 @@ h1 {
   margin: 20px;
 }
 
-h1 a.1 {
+h2 a.1 {
   display: inline-block;
   font-size: 12px;
   width: 30px;
@@ -22,7 +22,7 @@ h1 a.1 {
   transition: width 0.5s;
 }
 
-h1 a.1:hover {
+h2 a.1:hover {
   display: inline-block;
   font-size: 12px;
   width: 30px;
@@ -35,33 +35,82 @@ h1 a.1:hover {
   transition: width 0.5s;
 }
 
-h2 {
-   font-family: monospace;
-   font-weight: 700;
-   font-size: 14px;
-   color: black;
-   padding: 0px 0px;
+h2 a.2 {
+  display: inline-block;
+  font-size: 12px;
+  width: 30px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 30px;
+  transition: width 0.5s;
 }
 
-h3 {
-   font-family: monospace;
-   font-weight: 900;
-   font-size: 7px;
-   color: #0047FF;
-   padding: 0px 0px;
-   margin: 20px;
-   white-space: nowrap;
-}
-
-  
-p {
-  font-family: helveticaneue;
-  font-weight: 100;
-  font-size: 28px;
+h2 a.2:hover {
+  display: inline-block;
+  font-size: 12px;
+  width: 30px;
+  background-color: #BCFF4F;
   color: black;
-  margin: 20px;
-  text-align: justify;
-  cursor: (Frame 117blue circle.png)
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 30px;
+  transition: width 0.5s;
+}
+
+h2 a.3 {
+  display: inline-block;
+  font-size: 12px;
+  width: 30px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 30px;
+  transition: width 0.5s;
+}
+
+h2 a.3:hover {
+  display: inline-block;
+  font-size: 12px;
+  width: 30px;
+  background-color: #BCFF4F;
+  color: black;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 30px;
+  transition: width 0.5s;
+}
+
+h2 a.4 {
+  display: inline-block;
+  font-size: 12px;
+  width: 30px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 30px;
+  transition: width 0.5s;
+}
+
+h2 a.4:hover {
+  display: inline-block;
+  font-size: 12px;
+  width: 30px;
+  background-color: #BCFF4F;
+  color: black;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 30px;
+  transition: width 0.5s;
 }
 
 a {
@@ -79,26 +128,11 @@ section {
   overflow: hidden;
 }
 
-div.sidebar {
-  float: left;
-  width: 30%;
-}
-
-div.content {
-  float: right;
-  width: 70%;
-}
-
-div.content {
-  position: absolute;
-  top: 100px;
-  left: 380px;
-} 
 
 @media (max-width: 960px) {
   h1 {width: 920px; float: none;}
-  div.sidebar {width: 920px; float: none;}
-  div.content {width: 920px; float: none;}
+  h2 {width: 920px; float: none;}
+  text-align: left;
 }
 
 h2 a.emailbutton {
@@ -126,14 +160,4 @@ h2 a.emailbutton:hover {
   margin: 5px 0px 5px 20px;
   border-radius: 15px;
   border: 1px dashed #BCFF4F;
-}
-
-input {
-  color: #0047FF;
-  width: 300px;
-  font-family: monospace;
-  border: 1px dashed black;
-  border-radius: 15px;
-  padding: 10px 10px 10px 10px;
-  align: center;
 }
