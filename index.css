@@ -19,13 +19,13 @@ a.page1 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 32px;
-  width: 200px;
+  width: 100px;
   background-color: #0047FF;
   color: white;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 15px;
+  border-radius: 30px;
   transition: width 0.5s;
 }
 
@@ -33,13 +33,13 @@ a.page1:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 32px;
-  width: 200px;
+  width: 100px;
   background-color: #DCFF04;
   color: black;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 15px;
+  border-radius: 30px;
   transition: width 0.5s;
 }
 
@@ -47,13 +47,13 @@ a.page2 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 32px;
-  width: 200px;
+  width: 100px;
   background-color: #0047FF;
   color: white;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 15px;
+  border-radius: 30px;
   transition: width 0.5s;
 }
 
@@ -61,13 +61,13 @@ a.page2:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 32px;
-  width: 200px;
+  width: 100px;
   background-color: #DCFF04;
   color: black;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 15px;
+  border-radius: 30px;
   transition: width 0.5s;
 }
 
@@ -75,13 +75,13 @@ a.page3 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 32px;
-  width: 200px;
+  width: 100px;
   background-color: #0047FF;
   color: white;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 15px;
+  border-radius: 30px;
   transition: width 0.5s;
 }
 
@@ -89,13 +89,13 @@ a.page3:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 32px;
-  width: 200px;
+  width: 100px;
   background-color: #DCFF04;
   color: black;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 15px;
+  border-radius: 30px;
   transition: width 0.5s;
 }
 
@@ -103,13 +103,13 @@ a.page4 {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 32px;
-  width: 200px;
+  width: 100px;
   background-color: #0047FF;
   color: white;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 15px;
+  border-radius: 30px;
   transition: width 0.5s;
 }
 
@@ -117,13 +117,13 @@ a.page4:hover {
   display: inline-block;
   font-family: helveticaneue;
   font-size: 32px;
-  width: 200px;
+  width: 100px;
   background-color: #DCFF04;
   color: black;
   text-align: center;
   padding: 10px 10px 10px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 15px;
+  border-radius: 30px;
   transition: width 0.5s;
 }
 
