@@ -141,7 +141,6 @@ section {
 a.emailbutton {
   display: inline-block;
   font-family: helvelticaneue;
-  transform: rotate(10deg);
   width: 200px;
   font-size: 32px;
   background-color: #FFFFFF;
@@ -157,7 +156,6 @@ a.emailbutton {
 a.emailbutton:hover {
   display: inline-block;
   font-family: helvelticaneue;
-  transform: rotate(10deg);
   width: 200px;
   font-size: 32px;
   font-style: italic;
