@@ -175,4 +175,5 @@ a.emailbutton:hover {
   padding: 10px 20px 10px 20px;
   margin: 5px 0px 5px 20px;
   border-radius: 15px;
+  border: none;
 }
