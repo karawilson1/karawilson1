@@ -144,8 +144,8 @@ section {
 
 
 @media (max-width: 960px) {
-  h1 {width: 920px; float: none;}
-  h2 {width: 920px; float: none;}
+  h1 {width: 920px;}
+  section {width: 920px;}
   text-align: left;
 }
 
