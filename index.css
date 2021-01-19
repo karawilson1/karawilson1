@@ -127,17 +127,6 @@ a.page4:hover {
   transition: width 0.5s;
 }
 
-a {
-  color: #0047FF;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #BCFF4F;
-  font-size: 120%;
-  font-family: monospace;
-}
-
 section {
   overflow: hidden;
 }
@@ -162,6 +151,7 @@ a.emailbutton {
   margin: 5px 0px 5px 10px;
   border-radius: 60px;
   border: 1px dashed #0047FF;
+  float: right;
 }
 
 a.emailbutton:hover {
@@ -178,10 +168,5 @@ a.emailbutton:hover {
   margin: 5px 0px 5px 10px;
   border-radius: 60px;
   border: none;
-}
-
-emailbutton {
-  position: absolute;
-  top: 500px;
-  right: 10px;
+  float: right;
 }
