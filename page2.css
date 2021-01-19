@@ -1,6 +1,9 @@
 p {
   margin: 10px;
-  transform: scale(0.7);
+}
+
+img {
+  transform: scale(0.5);
 }
 
 h2 {
