@@ -216,6 +216,7 @@ input {
 
 a.button5 {
   display: inline-block;
+  font-family: helveticaneue;
   font-size: 12px;
   width: 50px;
   background-color: black;
@@ -229,6 +230,7 @@ a.button5 {
 
 a.button5:hover {
   display: inline-block;
+  font-family: monospace;
   width: 100px;
   background-color: #BCFF4F;
   color: black;
