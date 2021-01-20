@@ -2,11 +2,7 @@ p {
   margin: 10px;
 }
 
-img1 {
-  transform: scale(0.5);
-}
-
-img2 {
+img {
   transform: scale(0.5);
 }
 
