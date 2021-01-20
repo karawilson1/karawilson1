@@ -4,6 +4,7 @@ p {
 
 img {
   transform: scale(0.5);
+  align: left;
 }
 
 h2 {
