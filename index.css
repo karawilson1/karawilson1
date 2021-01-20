@@ -34,8 +34,9 @@ a.page1 {
 
 a.page1:hover {
   display: inline-block;
-  font-family: helveticaneue;
+  font-family: centurygothic;
   text-decoration: none;
+  text-style: italic;
   font-size: 32px;
   width: 40px;
   background-color: #DCFF04;
@@ -64,8 +65,9 @@ a.page2 {
 
 a.page2:hover {
   display: inline-block;
-  font-family: helveticaneue;
+  font-family: centurygothic;
   text-decoration: none;
+  text-style: italic;
   font-size: 32px;
   width: 40px;
   background-color: #DCFF04;
@@ -94,8 +96,9 @@ a.page3 {
 
 a.page3:hover {
   display: inline-block;
-  font-family: helveticaneue;
+  font-family: centurygothic;
   text-decoration: none;
+  text-style: italic;
   font-size: 32px;
   width: 40px;
   background-color: #DCFF04;
@@ -124,8 +127,9 @@ a.page4 {
 
 a.page4:hover {
   display: inline-block;
-  font-family: helveticaneue;
+  font-family: centurygothic;
   text-decoration: none;
+  text-style: italic;
   font-size: 32px;
   width: 40px;
   background-color: #DCFF04;
