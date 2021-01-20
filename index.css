@@ -150,7 +150,6 @@ a.emailbutton {
   margin: 5px 0px 5px 10px;
   border-radius: 60px;
   border: 1px dashed #0047FF;
-  float: right;
 }
 
 a.emailbutton:hover {
