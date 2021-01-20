@@ -18,6 +18,7 @@ h2 {
 a.page1 {
   display: inline-block;
   font-family: helveticaneue;
+  text-decoration: none;
   font-size: 32px;
   width: 40px;
   background-color: #0047FF;
@@ -32,6 +33,7 @@ a.page1 {
 a.page1:hover {
   display: inline-block;
   font-family: helveticaneue;
+  text-decoration: none;
   font-size: 32px;
   width: 40px;
   background-color: #DCFF04;
@@ -46,6 +48,7 @@ a.page1:hover {
 a.page2 {
   display: inline-block;
   font-family: helveticaneue;
+  text-decoration: none;
   font-size: 32px;
   width: 40px;
   background-color: #0047FF;
@@ -60,6 +63,7 @@ a.page2 {
 a.page2:hover {
   display: inline-block;
   font-family: helveticaneue;
+  text-decoration: none;
   font-size: 32px;
   width: 40px;
   background-color: #DCFF04;
@@ -74,6 +78,7 @@ a.page2:hover {
 a.page3 {
   display: inline-block;
   font-family: helveticaneue;
+  text-decoration: none;
   font-size: 32px;
   width: 40px;
   background-color: #0047FF;
@@ -88,6 +93,7 @@ a.page3 {
 a.page3:hover {
   display: inline-block;
   font-family: helveticaneue;
+  text-decoration: none;
   font-size: 32px;
   width: 40px;
   background-color: #DCFF04;
@@ -102,6 +108,7 @@ a.page3:hover {
 a.page4 {
   display: inline-block;
   font-family: helveticaneue;
+  text-decoration: none;
   font-size: 32px;
   width: 40px;
   background-color: #0047FF;
@@ -116,6 +123,7 @@ a.page4 {
 a.page4:hover {
   display: inline-block;
   font-family: helveticaneue;
+  text-decoration: none;
   font-size: 32px;
   width: 40px;
   background-color: #DCFF04;
@@ -141,6 +149,7 @@ section {
 a.emailbutton {
   display: inline-block;
   font-family: helvelticaneue;
+  text-decoration: none;
   width: 200px;
   font-size: 32px;
   background-color: #FFFFFF;
@@ -155,6 +164,7 @@ a.emailbutton {
 a.emailbutton:hover {
   display: inline-block;
   font-family: helvelticaneue;
+  text-decoration: none;
   width: 200px;
   font-size: 32px;
   font-style: italic;
