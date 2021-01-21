@@ -23,6 +23,22 @@ h2 {
   margin: 10px 20px 20px 10px;
 }
 
+h3 {
+  font-family: helveticaneue;
+  font-weight: 300;
+  font-size: 12px;
+  color: #0047FF;
+  margin: 10px 20px 20px 10px;
+}
+
+a: hover{
+  font-family: helveticaneue;
+  font-weight: 300;
+  font-size: 12px;
+  color: #DCFF04;
+  margin: 10px 20px 20px 10px;
+}
+
 a.page1 {
   display: inline-block;
   font-family: ABC Favorit Regular Trial;
