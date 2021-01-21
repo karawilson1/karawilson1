@@ -1,5 +1,10 @@
+@font-face {
+  font-family: ABC Favorit Regular Trial;
+  src: url(abc-favorit-regular-trial.otf);
+}
+
 h1 {
-  font-family: helveticaneue;
+  font-family: ABC Favorit Regular Trial;
   font-weight: 300;
   font-size: 64px;
   line-height: 72px;
@@ -10,7 +15,7 @@ h1 {
 }
 
 h2 {
-  font-family: helveticaneue;
+  font-family: ABC Favorit Regular Trial;
   font-weight: 300;
   font-size: 32px;
   color: #0047FF;
@@ -19,7 +24,7 @@ h2 {
 
 a.page1 {
   display: inline-block;
-  font-family: helveticaneue;
+  font-family: ABC Favorit Regular Trial;
   text-decoration: none;
   font-size: 32px;
   width: 40px;
@@ -34,7 +39,7 @@ a.page1 {
 
 a.page1:hover {
   display: inline-block;
-  font-family: centurygothic;
+  font-family: ABC Favorit Regular Trial;
   text-decoration: none;
   text-style: italic;
   font-size: 32px;
@@ -50,7 +55,7 @@ a.page1:hover {
 
 a.page2 {
   display: inline-block;
-  font-family: helveticaneue;
+  font-family: ABC Favorit Regular Trial;
   text-decoration: none;
   font-size: 32px;
   width: 40px;
@@ -65,7 +70,7 @@ a.page2 {
 
 a.page2:hover {
   display: inline-block;
-  font-family: centurygothic;
+  font-family: ABC Favorit Regular Trial;
   text-decoration: none;
   text-style: italic;
   font-size: 32px;
@@ -81,7 +86,7 @@ a.page2:hover {
 
 a.page3 {
   display: inline-block;
-  font-family: helveticaneue;
+  font-family: ABC Favorit Regular Trial;
   text-decoration: none;
   font-size: 32px;
   width: 40px;
@@ -96,7 +101,7 @@ a.page3 {
 
 a.page3:hover {
   display: inline-block;
-  font-family: centurygothic;
+  font-family: ABC Favorit Regular Trial;
   text-decoration: none;
   text-style: italic;
   font-size: 32px;
@@ -112,7 +117,7 @@ a.page3:hover {
 
 a.page4 {
   display: inline-block;
-  font-family: helveticaneue;
+  font-family: ABC Favorit Regular Trial;
   text-decoration: none;
   font-size: 32px;
   width: 40px;
@@ -127,7 +132,7 @@ a.page4 {
 
 a.page4:hover {
   display: inline-block;
-  font-family: centurygothic;
+  font-family: ABC Favorit Regular Trial;
   text-decoration: none;
   text-style: italic;
   font-size: 32px;
@@ -154,7 +159,7 @@ section {
 
 a.emailbutton {
   display: inline-block;
-  font-family: helvelticaneue;
+  font-family: ABC Favorit Regular Trial;
   text-decoration: none;
   width: 200px;
   font-size: 32px;
@@ -169,7 +174,7 @@ a.emailbutton {
 
 a.emailbutton:hover {
   display: inline-block;
-  font-family: helvelticaneue;
+  font-family: ABC Favorit Regular Trial;
   text-decoration: none;
   width: 200px;
   font-size: 32px;
@@ -184,7 +189,7 @@ a.emailbutton:hover {
 }
 
 a.resumebutton {
-  font-family: helvelticaneue;
+  font-family: ABC Favorit Regular Trial;
   display: inline-block;
   text-decoration: none;
   width: 100px;
@@ -199,7 +204,7 @@ a.resumebutton {
 }
 
 a.resumebutton:hover {
-  font-family: helvelticaneue;
+  font-family: ABC Favorit Regular Trial;
   display: inline-block;
   text-decoration: none;
   width: 100px;
