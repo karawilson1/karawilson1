@@ -12,7 +12,19 @@ h1 {
   text-align: left;
   margin: 10px 20px 10px 10px;
   transform: rotate(-5);
-  width: 50%;
+  width: 70%;
+}
+
+header {
+  overflow: hidden;
+}
+
+h1 {
+  float: left;
+}
+
+h2 {
+  float: right;
 }
 
 h2 {
