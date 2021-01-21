@@ -15,6 +15,11 @@ h1 {
   width: 70%;
 }
 
+.columns {
+  column-count: 2;
+  column width: 250px;
+}
+
 header {
   overflow: hidden;
 }
@@ -35,7 +40,7 @@ h2 {
   margin: 10px 20px 20px 10px;
 }
 
-h3.a {
+h3 {
   font-family: helveticaneue;
   font-weight: 300;
   font-size: 12px;
