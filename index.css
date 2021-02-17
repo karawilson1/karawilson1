@@ -40,6 +40,16 @@ h3 {
   margin: 10px 20px 10px 20px;
 }
 
+img {
+  max-width: 50%; 
+  height: auto;
+  position: fixed;
+  top: 100px;
+  right: 20px;
+  border: solid 1px;
+  drop-shadow: 5px 5px black;
+}
+
 a:hover {
   font-family: whyte;
   font-weight: 300;
