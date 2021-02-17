@@ -44,10 +44,10 @@ a:hover {
   text-align: left;
 }
 
-a>div { 
+a>img { 
   display: none; 
 }
-a:hover>div { 
+a:hover>img { 
   display: block;
 }
 
