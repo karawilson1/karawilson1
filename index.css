@@ -91,19 +91,7 @@ a:hover {
   color: black;
 }
 
-a.div { 
-  display: none; 
-}
-a.div:hover { 
-  display: block;
-}
-
-.hidden {
-  width: 20%; 
-  height: auto;
-}
-
-.main .projects .project .slider ul li .caption {
+.slider ul li .caption {
     display: inline-block;
     text-align: left;
     padding: 0 0 10px 0;
