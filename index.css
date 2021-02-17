@@ -54,10 +54,11 @@ a:hover {
   text-align: left;
 }
 
-div { 
+a.div { 
   display: none; 
 }
-hover>div { 
+
+a:hover>div { 
   display: block;
 }
 
