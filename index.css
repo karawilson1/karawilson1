@@ -82,8 +82,10 @@ a:hover>div {
   margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
+  opacity: 0;
 }
 
 .highlight:hover + .hidden {
   display: block;
+  opacity: 1;
 }
