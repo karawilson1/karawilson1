@@ -83,3 +83,7 @@ a.div:hover {
   margin-right: 20px;
   position: absolute;
 }
+
+::selection {
+    background: blue;
+}
