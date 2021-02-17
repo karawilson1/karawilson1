@@ -42,3 +42,15 @@ a:hover {
   section {width: 920px;}
   text-align: left;
 }
+
+a>div { 
+  display: none; 
+}
+a:hover>div { 
+  display: block;
+}
+
+.hidden {
+  width: 20%; 
+  height: auto;
+}
