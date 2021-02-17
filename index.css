@@ -87,4 +87,7 @@ a:hover>div {
 
 .highlight:hover + .hidden {
   display: block;
+  position: absolute;
+  top: 60px;
+  right: 60px;
 }
