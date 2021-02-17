@@ -85,6 +85,12 @@ a:hover {
   background-color: yellow;
 }
 
+.caption {
+  font-family: whyte; 
+  font-size: 12px;
+  color: black;
+}
+
 a.div { 
   display: none; 
 }
