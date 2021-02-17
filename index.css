@@ -1,5 +1,11 @@
+@font-face {
+  font-family: 'whyte';
+  src: url(ABCWhyte-Book-Trial.otf);
+  font-style: normal;
+}
+
 h1 {
-  font-family: helveticaneue;
+  font-family: whyte;
   font-weight: 300;
   font-size: 32px;
   line-height: 72px;
@@ -28,7 +34,7 @@ h2 {
 }
 
 h2 {
-  font-family: helveticaneue;
+  font-family: whyte;
   font-weight: 300;
   font-size: 32px;
   color: #0047FF;
@@ -36,7 +42,7 @@ h2 {
 }
 
 h3 {
-  font-family: helveticaneue;
+  font-family: whyte;
   font-weight: 300;
   font-size: 12px;
   color: #0047FF;
@@ -44,7 +50,7 @@ h3 {
 }
 
 a:hover {
-  font-family: helveticaneue;
+  font-family: whyte;
   font-weight: 300;
   font-size: 12px;
   color: #DCFF04;
@@ -53,7 +59,7 @@ a:hover {
 
 a.page1 {
   display: inline-block;
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   text-decoration: none;
   font-size: 32px;
   width: 40px;
@@ -68,7 +74,7 @@ a.page1 {
 
 a.page1:hover {
   display: inline-block;
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   text-decoration: none;
   text-style: italic;
   font-size: 32px;
@@ -84,7 +90,7 @@ a.page1:hover {
 
 a.page2 {
   display: inline-block;
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   text-decoration: none;
   font-size: 32px;
   width: 40px;
@@ -99,7 +105,7 @@ a.page2 {
 
 a.page2:hover {
   display: inline-block;
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   text-decoration: none;
   text-style: italic;
   font-size: 32px;
@@ -115,7 +121,7 @@ a.page2:hover {
 
 a.page3 {
   display: inline-block;
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   text-decoration: none;
   font-size: 32px;
   width: 40px;
@@ -130,7 +136,7 @@ a.page3 {
 
 a.page3:hover {
   display: inline-block;
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   text-decoration: none;
   text-style: italic;
   font-size: 32px;
@@ -146,7 +152,7 @@ a.page3:hover {
 
 a.page4 {
   display: inline-block;
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   text-decoration: none;
   font-size: 32px;
   width: 40px;
@@ -161,7 +167,7 @@ a.page4 {
 
 a.page4:hover {
   display: inline-block;
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   text-decoration: none;
   text-style: italic;
   font-size: 32px;
@@ -188,7 +194,7 @@ section {
 
 a.emailbutton {
   display: inline-block;
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   text-decoration: none;
   width: 200px;
   font-size: 32px;
@@ -203,7 +209,7 @@ a.emailbutton {
 
 a.emailbutton:hover {
   display: inline-block;
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   text-decoration: none;
   width: 200px;
   font-size: 32px;
@@ -218,7 +224,7 @@ a.emailbutton:hover {
 }
 
 a.resumebutton {
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   display: inline-block;
   text-decoration: none;
   width: 100px;
@@ -233,7 +239,7 @@ a.resumebutton {
 }
 
 a.resumebutton:hover {
-  font-family: ABC Favorit Regular Trial;
+  font-family: whyte;
   display: inline-block;
   text-decoration: none;
   width: 100px;
