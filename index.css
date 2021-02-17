@@ -85,10 +85,10 @@ a:hover {
   background-color: yellow;
 }
 
-a>div { 
+a.div { 
   display: none; 
 }
-a:hover>div { 
+a.div:hover { 
   display: block;
 }
 
