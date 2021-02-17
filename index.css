@@ -69,20 +69,16 @@ a:hover {
   background-color: yellow;
 }
 
-.hidden {
-  max-width: 320px;
-  position: fixed;
-  top: 60px;
-  right: 60px;
-  opacity: 0;
+a>div { 
+  display: none; 
+}
+a:hover>div { 
+  display: block;
 }
 
-.hidden:hover {
-  max-width: 320px;
-  position: fixed;
-  top: 60px;
-  right: 60px;
-  opacity: 1;
+.hidden {
+  width: 20%; 
+  height: auto;
 }
 
 ::selection {
