@@ -41,10 +41,10 @@ h3 {
 }
 
 img {
-  max-width: 50%; 
+  max-width: 75%; 
   height: auto;
   position: fixed;
-  top: 100px;
+  bottom: 20px;
   right: 20px;
   border: solid 1px;
   drop-shadow: 5px 5px black;
