@@ -105,6 +105,13 @@ a:hover {
     background: blue;
 }
 
+slider {
+  width: 50%;
+  position: right; 
+  margin: 10px;
+  padding: 10px;
+}
+
 image-container {
   width: 300px;
   height: auto;
