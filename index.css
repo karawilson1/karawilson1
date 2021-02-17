@@ -63,14 +63,14 @@ a:hover>div {
   display: block;
 }
 
-.newyork {
+.highlight {
   font-family: whyte;
   font-weight: 300;
   font-size: 32px;
   color: black;
 }
 
-.newyork:hover {
+.highlight:hover {
   font-family: whyte;
   font-weight: 300;
   font-size: 32px;
@@ -85,6 +85,6 @@ a:hover>div {
   right: 100px;
 }
 
-.newyork:hover + .hidden {
+.highlight:hover + .hidden {
   display: block;
 }
