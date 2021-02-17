@@ -54,14 +54,6 @@ a:hover {
   text-align: left;
 }
 
-a.div { 
-  display: none; 
-}
-
-a.div:hover { 
-  display: block;
-}
-
 .highlight {
   font-family: whyte;
   font-weight: 300;
@@ -79,9 +71,18 @@ a.div:hover {
 
 .hidden {
   max-width: 320px;
-  margin-top: 60px;
-  margin-right: 20px;
+  position: fixed;
+  top: 60px;
+  right: 60px;
   opacity: 0;
+}
+
+.hidden:hover {
+  max-width: 320px;
+  position: fixed;
+  top: 60px;
+  right: 60px;
+  opacity: 1;
 }
 
 ::selection {
