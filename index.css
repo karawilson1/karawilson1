@@ -79,4 +79,7 @@ a:hover>div {
 .hidden {
   width: 20%; 
   height: auto;
+  position: absolute; 
+  top: 200px;
+  right: 100px;
 }
