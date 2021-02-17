@@ -48,10 +48,16 @@ a:hover {
   margin: 10px 20px 20px 10px;
 }
 
-@media (max-width: 960px) {
-  h1 {width: 920px;}
-  section {width: 920px;}
-  text-align: left;
+@media (max-width: 600px) {
+  p { max-width: 100%;
+      font-size: 18px;
+  }
+  img {
+    max-width: 100%;
+  }
+  h1 {
+    font-size: 60px;
+  }
 }
 
 .highlight {
