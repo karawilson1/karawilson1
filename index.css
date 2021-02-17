@@ -56,10 +56,12 @@ a:hover {
 
 a.div { 
   display: none; 
+  opacity: 0;
 }
 
 a:hover>div { 
   display: block;
+  opacity: 1;
 }
 
 .highlight {
@@ -82,10 +84,9 @@ a:hover>div {
   margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
-  opacity: 0;
+  opacity: 1;
 }
 
 .highlight:hover + .hidden {
   display: block;
-  opacity: 1;
 }
