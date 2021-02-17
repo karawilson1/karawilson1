@@ -41,7 +41,7 @@ h3 {
 }
 
 img {
-  max-width: 50%; 
+  max-width: 300px; 
   height: auto;
   position: fixed;
   bottom: 20px;
@@ -103,4 +103,19 @@ a:hover {
 ::selection {
     color: white;
     background: blue;
+}
+
+image-container {
+  width: 300px;
+  height: auto;
+  position: absolute;
+  top: 60px;
+  right: 10px;
+  transition: left 2s;
+}
+
+.slider-image {
+  float: left;
+  margin: 0px;
+  padding: 0px;
 }
