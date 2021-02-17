@@ -62,12 +62,18 @@ a:hover>div {
   display: block;
 }
 
+.newyork {
+  font-family: whyte;
+  font-weight: 300;
+  font-size: 30px;
+  color: black;
+}
+
 .newyork:hover {
   font-family: whyte;
   font-weight: 300;
   font-size: 32px;
   background-color: yellow;
-  margin: 10px 20px 20px 10px;
 }
 
 .hidden {
