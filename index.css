@@ -116,6 +116,8 @@ a:hover>div {
   padding: 20px; 
   border-radius: 100px;
   z-index: 1000;
+  text-decoration: none; 
+  text-align: center;
 }
 
 .emailme:hover {
@@ -131,4 +133,6 @@ a:hover>div {
   padding: 20px; 
   border-radius: 100px;
   transform: rotate(10deg);
+  text-decoration: none; 
+  text-align: center;
 }
