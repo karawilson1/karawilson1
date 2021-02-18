@@ -133,7 +133,7 @@ a:hover>div {
   color: white;
   padding: 20px; 
   border-radius: 100px;
-  transform: rotate(5deg);
+  transform: rotate(10deg);
   text-decoration: none; 
   text-align: center;
 }
