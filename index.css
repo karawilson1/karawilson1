@@ -115,6 +115,7 @@ a:hover>div {
   color: white;
   padding: 20px; 
   border-radius: 100px;
+  z-index: 1000;
 }
 
 .emailme:hover {
