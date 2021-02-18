@@ -119,6 +119,7 @@ a:hover>div {
   transform: rotate(10deg);
   text-decoration: none; 
   text-align: center;
+  transition: 0.2s;
 }
 
 .emailme:hover {
