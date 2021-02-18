@@ -85,26 +85,19 @@ a:hover {
   background-color: yellow;
 }
 
+a>div { 
+  display: none; 
+}
+a:hover>div { 
+  display: block;
+}
+
+.hidden {
+  width: 20%; 
+  height: auto;
+}
+
 ::selection {
     color: white;
     background: blue;
-}
-
-#slider {
-  overflow: hidden;
-}
-
-image-container {
-  width: 300px;
-  height: auto;
-  position: absolute;
-  top: 60px;
-  right: 10px;
-  transition: left 2s;
-}
-
-.slider-image {
-  float: left;
-  margin: 0px;
-  padding: 0px;
 }
