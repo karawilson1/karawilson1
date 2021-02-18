@@ -76,6 +76,7 @@ a:hover {
   font-weight: 300;
   font-size: 32px;
   color: black;
+  transition: 0.2s;
 }
 
 .highlight:hover {
