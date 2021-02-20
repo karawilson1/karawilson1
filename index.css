@@ -136,14 +136,14 @@ a:hover>div {
 
 @media (max-width: 600px) {
   h2 { 
-    width: 90%;
+    width: 95%;
     font-size: 28px;
   }
   img {
     max-width: 90%;
   }
   h1 {
-    font-size: 60px;
+    font-size: 64px;
   }
  .highlight {
   font-family: whyte;
