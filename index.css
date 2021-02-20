@@ -59,18 +59,6 @@ a:hover {
   margin: 10px 20px 20px 10px;
 }
 
-@media (max-width: 600px) {
-  h2 { 
-    width: 100%;
-  }
-  img {
-    max-width: 100%;
-  }
-  h1 {
-    font-size: 60px;
-  }
-}
-
 .highlight {
   font-family: whyte;
   font-weight: 300;
@@ -150,4 +138,16 @@ a:hover>div {
   width: 50%;
   background-color: black; 
   color: white;
+}
+
+@media (max-width: 600px) {
+  h2 { 
+    width: 100%;
+  }
+  img {
+    max-width: 100%;
+  }
+  h1 {
+    font-size: 60px;
+  }
 }
