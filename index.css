@@ -145,4 +145,10 @@ a:hover>div {
   h1 {
     font-size: 60px;
   }
+ .highlight {
+  font-family: whyte;
+  font-weight: 300;
+  font-size: 28px;
+  color: black;
+  }
 }
