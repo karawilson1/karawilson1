@@ -145,3 +145,9 @@ a:hover>div {
   text-decoration: none; 
   text-align: center;
 }
+
+.mainblock {
+  width: 50%;
+  background-color: black; 
+  color: white;
+}
