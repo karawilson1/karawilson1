@@ -60,8 +60,9 @@ a:hover {
 }
 
 @media (max-width: 600px) {
-  p { max-width: 100%;
-      font-size: 18px;
+  h2 { 
+    max-width: 100%;
+    font-size: 18px;
   }
   img {
     max-width: 100%;
