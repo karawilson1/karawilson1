@@ -145,7 +145,4 @@ a:hover>div {
   h1 {
     font-size: 60px;
   }
-  a>div { 
-    display: block; 
-  }
 }
