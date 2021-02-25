@@ -6,7 +6,7 @@
 
 body {
   font-weight: 300;
-  margin: 0 auto;
+  margin: 0px auto;
   text-align: justify;
   position: center;
   cursor: url('docs/Frame 38.png'), auto;
@@ -17,7 +17,7 @@ h1 {
   font-weight: 300;
   font-size: 96px;
   color: black;
-  margin: 10px;
+  margin: 10px 10px 10px 40px;
   width: 50%;
 }
 
@@ -27,7 +27,7 @@ h2 {
   font-size: 32px;
   line-height: 36px;
   color: black;
-  margin: 10px;
+  margin: 10px 10px 10px 40px;
   width: 50%;
   position: center;
 }
