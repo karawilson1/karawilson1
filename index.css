@@ -80,6 +80,7 @@ a>div {
 }
 a:hover>div { 
   display: block;
+  z-index: 1;
 }
 
 .hidden {
