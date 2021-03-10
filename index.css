@@ -132,7 +132,6 @@ a:hover>div {
   transform: rotate(10deg);
   text-decoration: none; 
   text-align: center;
-  z-index: 1;
 }
 
 
