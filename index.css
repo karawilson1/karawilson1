@@ -160,10 +160,10 @@ a:hover>div {
   font-family: whyte;
   font-size: 16px;
   width: 120px;
-  height: 150px;
+  height: 120px;
   position: absolute;
   top: 10px;
-  right: 100px;
+  right: 150px;
   background-color: blue;
   color: white;
   padding: 20px; 
