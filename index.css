@@ -104,7 +104,7 @@ a:hover>div {
   font-size: 14px;
   width: 100px;
   height: 100px;
-  position: absolute;
+  position: sticky;
   top: 10px;
   right: 10px;
   background-color: red;
@@ -123,7 +123,7 @@ a:hover>div {
   font-size: 16px;
   width: 120px;
   height: 120px;
-  position: absolute;
+  position: sticky;
   top: 10px;
   right: 10px;
   background-color: red;
@@ -142,7 +142,7 @@ a:hover>div {
   font-size: 14px;
   width: 100px;
   height: 100px;
-  position: absolute;
+  position: sticky;
   top: 10px;
   right: 150px;
   background-color: blue;
@@ -161,7 +161,7 @@ a:hover>div {
   font-size: 16px;
   width: 120px;
   height: 120px;
-  position: absolute;
+  position: sticky;
   top: 10px;
   right: 150px;
   background-color: blue;
