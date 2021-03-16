@@ -206,7 +206,8 @@ a:hover>div {
 @media (max-width: 600px) {
   h2 { 
     width: 95%;
-    font-size: 28px;
+    font-size: 24px;
+    margin: 10px;
   }
   img {
     max-width: 90%;
