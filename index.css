@@ -24,7 +24,7 @@ h1 {
 h2 {
   font-family: whyte;
   font-weight: 300;
-  font-size: 24px;
+  font-size: 32px;
   line-height: 36px;
   color: black;
   margin: 10px 10px 10px 20px;
@@ -193,13 +193,14 @@ a:hover>div {
   font-family: whyte, helvetica, sans-serif;
   font-size: 72px;
   position: absolute;
-  top: 200px;
-  right: 100px;
+  top: 100px;
+  right: 70px;
   color: black;
   padding: 20px; 
   transform: rotate(90deg);
   text-decoration: none; 
   text-align: center;
+  font-weight: 300;
 }
 
 @media (max-width: 600px) {
