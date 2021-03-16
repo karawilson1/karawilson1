@@ -43,9 +43,10 @@ h3 {
 .couplethings {
   font-family: whyte;
   font-weight: 300;
-  font-size: 16px;
-  color: blue;
+  font-size: 48px;
+  color: black;
   margin: 10px 10px 10px 40px;
+  font-weight: 500;
 }
 
 img {
