@@ -188,6 +188,13 @@ a:hover>div {
   text-align: center;
 }
 
+.businesscard {
+  width: 40%; 
+  height: auto;
+  z-index: -1;
+  transform: rotate(10deg);
+}
+
 @media (max-width: 600px) {
   h2 { 
     width: 95%;
