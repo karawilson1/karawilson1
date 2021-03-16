@@ -102,6 +102,12 @@ a:hover>div {
   border: none;
 }
 
+hiddennoborder {
+  width: 50%;
+  height: auto;
+  border: none;
+}
+
 ::selection {
     color: white;
     background: blue;
