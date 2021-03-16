@@ -190,10 +190,10 @@ a:hover>div {
 }
 
 .parentheses {
-  font-family: whyte;
-  font-size: 48px;
+  font-family: whyte, helvetica, sans-serif;
+  font-size: 72px;
   position: absolute;
-  top: 50px;
+  top: 200px;
   right: 100px;
   color: black;
   padding: 20px; 
