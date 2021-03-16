@@ -104,6 +104,7 @@ a:hover>div {
 .hidden {
   width: 40%; 
   height: auto;
+  z-index: -1;
 }
 
 .hidden2 {
