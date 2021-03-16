@@ -107,7 +107,7 @@ a:hover>div {
 }
 
 .hidden2 {
-  height: 80%;
+  height: auto;
   width: auto;
   border: none;
 }
