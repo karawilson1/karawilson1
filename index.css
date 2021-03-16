@@ -181,6 +181,7 @@ a:hover>div {
   position: absolute; 
   top: 1600px;
   right: 200px;
+  border: none;
 }
 
 @media (max-width: 600px) {
