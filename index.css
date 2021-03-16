@@ -107,14 +107,14 @@ a:hover>div {
 }
 
 .hidden2 {
+  width: 40%;
   height: auto;
-  width: auto;
   border: none;
 }
 
 .hidden3 {
-  height: 80%; 
-  width: auto;
+  width: 50%; 
+  height: auto;
 }
 
 ::selection {
@@ -192,20 +192,6 @@ a:hover>div {
   transform: rotate(10deg);
   text-decoration: none; 
   text-align: center;
-}
-
-.parentheses {
-  font-family: whyte, helvetica, sans-serif;
-  font-size: 72px;
-  position: absolute;
-  top: 100px;
-  right: 70px;
-  color: black;
-  padding: 20px; 
-  transform: rotate(90deg);
-  text-decoration: none; 
-  text-align: center;
-  font-weight: 300;
 }
 
 @media (max-width: 600px) {
