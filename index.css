@@ -50,6 +50,7 @@ img {
   border: solid 1px;
   drop-shadow: 5px 5px black;
   text-decoration: underline;
+  z-index: -1;
 }
 
 .website {
