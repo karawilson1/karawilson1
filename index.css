@@ -112,6 +112,11 @@ a:hover>div {
   border: none;
 }
 
+.hidden {
+  height: 80%; 
+  width: auto;
+}
+
 ::selection {
     color: white;
     background: blue;
