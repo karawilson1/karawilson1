@@ -172,8 +172,8 @@ a:hover>div {
 }
 
 .businesscard {
-  width: 40%; 
-  height: auto;
+  height: 40%;
+  width: auto;
   z-index: -1;
   transform: rotate(10deg);
   text-align: center; 
