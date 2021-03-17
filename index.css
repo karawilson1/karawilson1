@@ -114,10 +114,10 @@ a:hover>div {
   z-index: 1;
 }
 
-hidden4.a>div {
+.hidden4 {
   display: none;
 }
-hidden4.a:hover>div {
+.hidden4:hover> {
   display: block;
 }
 
