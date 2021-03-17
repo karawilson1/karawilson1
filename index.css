@@ -85,10 +85,10 @@ img {
   background-color: yellow;
 }
 
-.highlight {
+.highlight2 {
   font-family: whyte;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 12px;
   color: red;
   transition: 0.2s;
 }
