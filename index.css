@@ -25,7 +25,7 @@ h1 {
 h2 {
   font-family: whyte;
   font-weight: 300;
-  font-size: 32px;
+  font-size: 28px;
   line-height: 36px;
   color: white;
   margin: 10px 10px 10px 20px;
@@ -195,6 +195,7 @@ a:hover>div {
   
   h3 {
     color: white;
+    font-size: 18px;
   }
   
  .highlight {
