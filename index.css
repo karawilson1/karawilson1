@@ -83,6 +83,23 @@ img {
   background-color: yellow;
 }
 
+.highlight {
+  font-family: whyte;
+  font-weight: 300;
+  font-size: 12px;
+  color: red;
+  transition: 0.2s;
+}
+
+
+.highlight2:hover {
+  font-family: whyte;
+  font-weight: 300;
+  font-size: 12px;
+  color: black;
+  background-color: yellow;
+}
+
 a>div { 
   display: none; 
 }
