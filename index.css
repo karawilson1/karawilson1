@@ -307,4 +307,8 @@ hidden4.a:hover>div {
   text-align: center;
   z-index: -1;
 }
+  
+  .hidden4 {
+    display: none;
+  }
 }
