@@ -130,6 +130,7 @@ a:hover>div {
 .hidden4 {
   height: 80%;
   width: auto;
+  border: none;
 }
 
 ::selection {
