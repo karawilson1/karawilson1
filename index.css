@@ -210,7 +210,7 @@ a:hover>div {
 
 @media (max-width: 800px) {
   body {
-    background: black; 
+    background: blue; 
   }
   
   h2 { 
@@ -339,7 +339,7 @@ a:hover>div {
     font-size: 16px;
     display: block;
     position: absolute;
-    color: blue;
+    color: white;
     top: 10px;
     right: 10px;
     text-decoration: none;
