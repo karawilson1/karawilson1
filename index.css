@@ -10,13 +10,14 @@ body {
   text-align: justify;
   position: center;
   cursor: url('docs/Frame 38.png'), auto;
+  background: black;
 }
 
 h1 {
   font-family: whyte;
   font-weight: 300;
   font-size: 96px;
-  color: black;
+  color: white;
   margin: 10px 10px 10px 20px;
   width: 50%;
 }
@@ -26,7 +27,7 @@ h2 {
   font-weight: 300;
   font-size: 32px;
   line-height: 36px;
-  color: black;
+  color: white;
   margin: 10px 10px 10px 20px;
   width: 50%;
   position: center;
@@ -36,7 +37,7 @@ h3 {
   font-family: whyte;
   font-weight: 100;
   font-size: 24px;
-  color: black;
+  color: white;
   margin: 0px 0px 0px 10px;
   font-weight: 500;
 }
@@ -57,7 +58,7 @@ img {
   font-family: whyte;
   font-weight: 300;
   font-size: 32px;
-  color: black;
+  color: red;
   transition: 0.2s;
 }
 
