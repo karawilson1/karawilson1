@@ -293,4 +293,35 @@ a:hover>div {
   text-decoration: none; 
   text-align: center;
 }
+  
+  .ellipse2 {
+  font-family: whyte;
+  font-size: 16px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 800px;
+  left: 90px;
+  color: yellow;
+  border: 1px yellow;
+  border-radius: 1000px;
+  background-color: yellow;
+  text-decoration: none; 
+  text-align: center;
+}
+    .ellipse3 {
+  font-family: whyte;
+  font-size: 16px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 1300px;
+  left: 120px;
+  color: yellow;
+  border: 1px yellow;
+  border-radius: 1000px;
+  background-color: yellow;
+  text-decoration: none; 
+  text-align: center;
+}
 }
