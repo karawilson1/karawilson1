@@ -171,19 +171,6 @@ a:hover>div {
   text-align: center;
 }
 
-.businesscard {
-  height: 60%;
-  width: auto;
-  z-index: -1;
-  transform: rotate(10deg);
-  text-align: center; 
-  drop-shadow: 0px 10px 8px 0px #888888;
-  position: absolute; 
-  top: 1600px;
-  right: 200px;
-  border: none;
-}
-
 @media (max-width: 800px) {
   body {
     background: black; 
@@ -215,4 +202,32 @@ a:hover>div {
   font-size: 24px;
   color: red;
   }
+  
+  .emailme {
+  font-family: whyte;
+  font-size: 16px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: red;
+  border: 1px red;
+  padding: 10px;
+  transform: rotate(0deg);
+  text-decoration: none; 
+  text-align: center;
+}
+  
+  .portfolio {
+  font-family: whyte;
+  font-size: 16px;
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  color: blue;
+  border: 1px blue;
+  padding: 10px;
+  transform: rotate(0deg);
+  text-decoration: none; 
+  text-align: center;
+}
 }
