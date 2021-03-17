@@ -229,6 +229,7 @@ a:hover>div {
   h2 { 
     width: 95%;
     font-size: 20px;
+    line-height: 26px;
     margin: 10px;
     color: white;
   }
