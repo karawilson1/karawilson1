@@ -125,6 +125,11 @@ a:hover>div {
   height: auto;
 }
 
+.hidden4 {
+  height: 80%;
+  width: auto;
+}
+
 ::selection {
     color: white;
     background: blue;
