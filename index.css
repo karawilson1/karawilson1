@@ -238,7 +238,7 @@ hidden4.a:hover>div {
   }
   
   h1 {
-    font-size: 64px;
+    font-size: 72px;
     color: white;
   }
   
@@ -270,10 +270,10 @@ hidden4.a:hover>div {
   position: absolute;
   top: 500px;
   left: 40px;
-  color: yellow;
-  border: 1px yellow;
+  color: pink;
+  border: 1px pink;
   border-radius: 1000px;
-  background-color: yellow;
+  background-color: pink;
   text-decoration: none; 
   text-align: center;
   z-index: -1;
@@ -287,10 +287,10 @@ hidden4.a:hover>div {
   position: absolute;
   top: 800px;
   right: 90px;
-  color: yellow;
-  border: 1px yellow;
+  color: pink;
+  border: 1px pink;
   border-radius: 1000px;
-  background-color: yellow;
+  background-color: pink;
   text-decoration: none; 
   text-align: center;
   z-index: -1;
@@ -303,10 +303,10 @@ hidden4.a:hover>div {
   position: absolute;
   top: 1300px;
   left: 120px;
-  color: yellow;
-  border: 1px yellow;
+  color: pink;
+  border: 1px pink;
   border-radius: 1000px;
-  background-color: yellow;
+  background-color: pink;
   text-decoration: none; 
   text-align: center;
   z-index: -1;
