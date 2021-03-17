@@ -17,6 +17,7 @@ body {
   position: center;
   cursor: url('docs/Frame 38.png'), auto;
   background: black;
+  overflow-x: hidden;
 }
 
 h1 {
