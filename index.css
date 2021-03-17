@@ -102,6 +102,10 @@ img {
   background-color: yellow;
 }
 
+.portfoliomobile {
+  display: none;
+}
+
 a>div { 
   display: none; 
 }
@@ -315,6 +319,7 @@ hidden4.a:hover>div {
   .portfoliomobile {
     font-family: whyte;
     font-size: 16px;
+    display: block;
     position: absolute;
     color: blue;
     top: 10px;
