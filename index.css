@@ -110,6 +110,13 @@ a:hover>div {
   z-index: 1;
 }
 
+hidden4.a>div {
+  display: none;
+}
+hidden4.a:hover>div {
+  display: block;
+}
+
 .hidden {
   width: 40%; 
   height: auto;
