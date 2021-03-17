@@ -311,4 +311,13 @@ hidden4.a:hover>div {
   .hidden4 {
     display: none;
   }
+  
+  .portfoliomobile {
+    font-family: whyte;
+    font-size: 16px;
+    position: absolute;
+    color: blue;
+    top: 10px;
+    right: 10px;
+  }
 }
