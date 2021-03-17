@@ -290,6 +290,7 @@ hidden4.a:hover>div {
   background-color: yellow;
   text-decoration: none; 
   text-align: center;
+  z-index: -1;
 }
   
   .ellipse2 {
@@ -299,13 +300,14 @@ hidden4.a:hover>div {
   height: 80px;
   position: absolute;
   top: 800px;
-  left: 90px;
+  right: 90px;
   color: yellow;
   border: 1px yellow;
   border-radius: 1000px;
   background-color: yellow;
   text-decoration: none; 
   text-align: center;
+  z-index: -1;
 }
     .ellipse3 {
   font-family: whyte;
@@ -321,5 +323,6 @@ hidden4.a:hover>div {
   background-color: yellow;
   text-decoration: none; 
   text-align: center;
+  z-index: -1;
 }
 }
