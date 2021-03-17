@@ -53,6 +53,8 @@ p {
   font-size: 12px;
   color: white;
   margin: 10px;
+  width: 100%;
+  z-index: 1;
 }
 
 img {
