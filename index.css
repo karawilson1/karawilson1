@@ -78,7 +78,7 @@ img {
 .highlight:hover {
   font-family: whyte;
   font-weight: 300;
-  font-size: 32px;
+  font-size: 28px;
   color: black;
   background-color: yellow;
 }
@@ -86,7 +86,7 @@ img {
 .highlight {
   font-family: whyte;
   font-weight: 300;
-  font-size: 12px;
+  font-size: 28px;
   color: red;
   transition: 0.2s;
 }
