@@ -324,5 +324,6 @@ hidden4.a:hover>div {
     color: blue;
     top: 10px;
     right: 10px;
+    text-decoration: none;
   }
 }
