@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: 'whyteblack';
-  src: url('docs/');
+  src: url('docs/ABCWhyte-Black-Trial.woff');
   font-style: normal;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-  font-family: whyte;
+  font-family: whyteblack;
   font-weight: 300;
   font-size: 96px;
   color: white;
