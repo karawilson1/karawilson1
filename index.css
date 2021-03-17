@@ -117,7 +117,7 @@ a:hover>div {
 .hidden4 {
   display: none;
 }
-.hidden4:hover> {
+.hidden4:hover>div {
   display: block;
 }
 
