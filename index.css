@@ -251,29 +251,11 @@ hidden4.a:hover>div {
   }
   
   .emailme {
-  font-family: whyte;
-  font-size: 16px;
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  color: white;
-  background-color: none;
-  transform: rotate(0deg);
-  text-decoration: none; 
-  text-align: right;
+    display:none;
 }
   
   .portfolio {
-  font-family: whyte;
-  font-size: 16px;
-  position: absolute;
-  top: 60px;
-  right: 10px;
-  color: white;
-  background-color: none;
-  transform: rotate(0deg);
-  text-decoration: none; 
-  text-align: right;
+    display: none;
 }
   
   .ellipse1 {
