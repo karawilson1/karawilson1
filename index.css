@@ -185,17 +185,28 @@ a:hover>div {
 }
 
 @media (max-width: 600px) {
+  body {
+    color: black; 
+  }
+  
   h2 { 
     width: 95%;
     font-size: 24px;
     margin: 10px;
+    color: white;
   }
   img {
     max-width: 90%;
   }
+  
   h1 {
     font-size: 64px;
+    color: white;
   }
+    h3 {
+    color: white;
+  }
+  
  .highlight {
   font-family: whyte;
   font-weight: 300;
