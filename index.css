@@ -16,7 +16,6 @@ body {
   text-align: left;
   position: center;
   cursor: url('docs/Frame 38.png'), auto;
-  background: black;
   overflow-x: hidden;
 }
 
@@ -24,7 +23,7 @@ h1 {
   font-family: whyteblack;
   font-weight: 300;
   font-size: 108px;
-  color: white;
+  color: black;
   margin: 10px 10px 10px 20px;
   width: 50%;
 }
@@ -34,7 +33,7 @@ h2 {
   font-weight: 300;
   font-size: 28px;
   line-height: 36px;
-  color: white;
+  color: black;
   margin: 10px 10px 10px 20px;
   width: 50%;
   position: center;
@@ -44,7 +43,7 @@ h3 {
   font-family: whyte;
   font-weight: 100;
   font-size: 24px;
-  color: white;
+  color: black;
   margin: 0px 0px 0px 10px;
   font-weight: 500;
 }
@@ -52,7 +51,7 @@ h3 {
 p {
   font-family: whyte;
   font-size: 12px;
-  color: white;
+  color: black;
   margin: 10px;
   width: 100%;
   z-index: 1;
@@ -219,7 +218,7 @@ a:hover>div {
     font-size: 20px;
     line-height: 26px;
     margin: 10px;
-    color: white;
+    color: black;
   }
   
   img {
@@ -228,11 +227,11 @@ a:hover>div {
   
   h1 {
     font-size: 72px;
-    color: white;
+    color: black;
   }
   
   h3 {
-    color: white;
+    color: black;
     font-size: 16px;
   }
   
