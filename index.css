@@ -351,6 +351,9 @@ a:hover>div {
     max-height: 100%;
     width: 50%;
     z-index: -1;
+    position: absolute; 
+    top: 20px;
+    right: 20px;
     grid-column: 1 / 6;
     
     overflow: auto;
