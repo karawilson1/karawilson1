@@ -349,9 +349,9 @@ a:hover>div {
 #carousel {
     height: 80vh;
     max-height: 100%;
-    width: auto;
+    width: 50%;
     z-index: -1;
-    grid-column: 1 / 4;
+    grid-column: 1 / 6;
     
     overflow: auto;
     white-space:nowrap;
