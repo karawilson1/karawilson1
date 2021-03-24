@@ -346,3 +346,26 @@ a:hover>div {
     text-decoration: none;
   }
 }
+
+#carousel {
+    height: 80vh;
+    max-height: 100%;
+    width: auto;
+    z-index: -1;
+    grid-column: 1 / 4;
+    
+    overflow: auto;
+    white-space:nowrap;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 50%;
+}
+
+#carousel .slide {
+  height: 50%;
+  width: auto;
+  object-fit: contain;
+  display: inline-block;
+  z-index: -1;
+  padding: 40px;
+}
+
