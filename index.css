@@ -358,7 +358,6 @@ a:hover>div {
     
     overflow: auto;
     white-space:nowrap;
-    scroll-snap-type: x mandatory;
     scroll-padding: 50%;
 }
 
