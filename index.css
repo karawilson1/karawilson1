@@ -61,13 +61,6 @@ p {
 img {
   max-width: 40%;
   height: auto;
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  border: solid 1px;
-  drop-shadow: 5px 5px black;
-  text-decoration: underline;
-  z-index: -1;
 }
 
 .allprojects {
@@ -80,67 +73,6 @@ img {
   margin-right: auto;
 }
 
-.highlight {
-  font-family: whyte;
-  font-weight: 300;
-  font-size: 32px;
-  color: red;
-  transition: 0.2s;
-}
-
-.highlight:hover {
-  font-family: whyte;
-  font-weight: 300;
-  font-size: 28px;
-  color: black;
-  background-color: yellow;
-}
-
-.highlight2 {
-  font-family: whyte;
-  font-weight: 300;
-  font-size: 12px;
-  color: red;
-  transition: 0.2s;
-}
-
-
-.highlight2:hover {
-  font-family: whyte;
-  font-weight: 300;
-  font-size: 12px;
-  color: black;
-  background-color: yellow;
-}
-
-.portfoliomobile {
-  display: none;
-}
-
-a>div {
-  display: none;
-}
-a:hover>div {
-  display: block;
-  z-index: 1;
-}
-
-.hidden {
-  width: 40%;
-  height: auto;
-  z-index: -1;
-}
-
-.hidden2 {
-  width: 40%;
-  height: auto;
-  border: none;
-}
-
-.hidden3 {
-  width: 50%;
-  height: auto;
-}
 
 ::selection {
     color: white;
