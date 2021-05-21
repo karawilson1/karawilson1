@@ -108,6 +108,7 @@ a:hover {
 
   img {
     max-width: 90%;
+    height: auto;
   }
 
   h1 {
