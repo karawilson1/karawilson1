@@ -109,6 +109,10 @@ img {
   text-decoration: none;
 }
 
+a {
+  color: black;
+}
+
 a:hover {
   background-color: black;
   color: white;
