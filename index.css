@@ -16,7 +16,6 @@ body {
   color: #F5F2EC;
   text-align: left;
   position: center;
-  cursor: url('docs/Frame 38.png'), auto;
   overflow-x: hidden;
 }
 
@@ -111,9 +110,6 @@ a:hover {
 
 
 @media (max-width: 800px) {
-  body {
-    background: black;
-  }
 
   h2 {
     width: 95%;
@@ -144,13 +140,6 @@ a:hover {
   color: red;
   }
 
-  .emailme {
-    display:none;
-}
-
-  .portfolio {
-    display: none;
-}
 
   .ellipse1 {
   font-family: whyte;
@@ -246,28 +235,4 @@ a:hover {
     right: 10px;
     text-decoration: none;
   }
-}
-
-#carousel {
-    height: 80vh;
-    max-height: 100%;
-    width: 50%;
-    z-index: -1;
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    grid-column: 1 / 6;
-
-    overflow: auto;
-    white-space:nowrap;
-    scroll-padding: 50%;
-}
-
-#carousel .slide {
-  height: 50%;
-  width: auto;
-  object-fit: contain;
-  display: inline-block;
-  z-index: -1;
-  padding: 40px;
 }
