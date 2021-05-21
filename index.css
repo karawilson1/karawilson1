@@ -83,7 +83,7 @@ img {
 }
 
 .tweet {
-  position: absolute;
+  position: sticky;
   bottom: 10px;
   right: 10px;
   max-width: 20vw;
