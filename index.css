@@ -29,6 +29,7 @@ h1 {
   font-family: whyte, montserrat, sans-serif;
   font-weight: 300;
   font-size: 108px;
+  position: sticky;
   color: black;
   margin: 10px 10px 10px 20px;
   width: 100%;
