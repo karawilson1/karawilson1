@@ -59,8 +59,8 @@ p {
 }
 
 img {
-  max-width: 40%;
-  height: auto;
+  height: 60vh;
+  max-width: auto;
 }
 
 .allprojects {
