@@ -50,7 +50,7 @@ p {
   font-family: whyte;
   font-size: 14px;
   color: black;
-  width: 40%;
+  width: 100%;
   z-index: 1;
 }
 
@@ -68,7 +68,7 @@ img {
   flex-wrap: wrap;
   padding: 20px;
   width: 100vw;
-  margin-left: 20px;
+  margin-left: 0px;
 }
 
 .project {
