@@ -59,8 +59,8 @@ p {
 }
 
 img {
-  height: 60vh;
-  max-width: auto;
+  width: 60vw;
+  max-height: auto;
   margin: 20px;
 }
 
