@@ -13,6 +13,7 @@
 body {
   font-weight: 300;
   margin: 0px auto;
+  color: #F5F2EC;
   text-align: left;
   position: center;
   cursor: url('docs/Frame 38.png'), auto;
@@ -58,7 +59,7 @@ p {
 }
 
 img {
-  max-width: 40%; 
+  max-width: 40%;
   height: auto;
   position: fixed;
   bottom: 20px;
@@ -106,16 +107,16 @@ img {
   display: none;
 }
 
-a>div { 
-  display: none; 
+a>div {
+  display: none;
 }
-a:hover>div { 
+a:hover>div {
   display: block;
   z-index: 1;
 }
 
 .hidden {
-  width: 40%; 
+  width: 40%;
   height: auto;
   z-index: -1;
 }
@@ -127,7 +128,7 @@ a:hover>div {
 }
 
 .hidden3 {
-  width: 50%; 
+  width: 50%;
   height: auto;
 }
 
@@ -146,10 +147,10 @@ a:hover>div {
   right: 10px;
   background-color: red;
   color: white;
-  padding: 20px; 
+  padding: 20px;
   border-radius: 100px;
   transform: rotate(10deg);
-  text-decoration: none; 
+  text-decoration: none;
   text-align: center;
   transition: 0.2s;
 }
@@ -164,10 +165,10 @@ a:hover>div {
   right: 10px;
   background-color: red;
   color: white;
-  padding: 20px; 
+  padding: 20px;
   border-radius: 100px;
   transform: rotate(10deg);
-  text-decoration: none; 
+  text-decoration: none;
   text-align: center;
   z-index: 1;
 }
@@ -183,10 +184,10 @@ a:hover>div {
   right: 170px;
   background-color: blue;
   color: white;
-  padding: 20px; 
+  padding: 20px;
   border-radius: 100px;
   transform: rotate(10deg);
-  text-decoration: none; 
+  text-decoration: none;
   text-align: center;
   transition: 0.2s;
 }
@@ -201,55 +202,55 @@ a:hover>div {
   right: 170px;
   background-color: blue;
   color: white;
-  padding: 20px; 
+  padding: 20px;
   border-radius: 100px;
   transform: rotate(10deg);
-  text-decoration: none; 
+  text-decoration: none;
   text-align: center;
 }
 
 @media (max-width: 800px) {
   body {
-    background: black; 
+    background: black;
   }
-  
-  h2 { 
+
+  h2 {
     width: 95%;
     font-size: 20px;
     line-height: 26px;
     margin: 10px;
     color: black;
   }
-  
+
   img {
     max-width: 90%;
   }
-  
+
   h1 {
     font-size: 72px;
     color: black;
   }
-  
+
   h3 {
     color: black;
     font-size: 16px;
   }
-  
+
  .highlight {
   font-family: whyte;
   font-weight: 300;
   font-size: 20px;
   color: red;
   }
-  
+
   .emailme {
     display:none;
 }
-  
+
   .portfolio {
     display: none;
 }
-  
+
   .ellipse1 {
   font-family: whyte;
   font-size: 16px;
@@ -262,11 +263,11 @@ a:hover>div {
   border: 1px blue;
   border-radius: 1000px;
   background-color: blue;
-  text-decoration: none; 
+  text-decoration: none;
   text-align: center;
   z-index: -1;
 }
-  
+
   .ellipse2 {
   font-family: whyte;
   font-size: 16px;
@@ -279,7 +280,7 @@ a:hover>div {
   border: 1px blue;
   border-radius: 1000px;
   background-color: blue;
-  text-decoration: none; 
+  text-decoration: none;
   text-align: center;
   z-index: -1;
 }
@@ -295,11 +296,11 @@ a:hover>div {
   border: 1px blue;
   border-radius: 1000px;
   background-color: blue;
-  text-decoration: none; 
+  text-decoration: none;
   text-align: center;
   z-index: -1;
 }
-  
+
   .ellipse4 {
   font-family: whyte;
   font-size: 16px;
@@ -312,11 +313,11 @@ a:hover>div {
   border: 1px blue;
   border-radius: 1000px;
   background-color: blue;
-  text-decoration: none; 
+  text-decoration: none;
   text-align: center;
   z-index: -1;
 }
-  
+
     .ellipse5 {
   font-family: whyte;
   font-size: 16px;
@@ -329,11 +330,11 @@ a:hover>div {
   border: 1px blue;
   border-radius: 1000px;
   background-color: blue;
-  text-decoration: none; 
+  text-decoration: none;
   text-align: center;
   z-index: -1;
 }
-  
+
   .portfoliomobile {
     font-family: whyte;
     font-size: 16px;
@@ -351,11 +352,11 @@ a:hover>div {
     max-height: 100%;
     width: 50%;
     z-index: -1;
-    position: absolute; 
+    position: absolute;
     top: 20px;
     right: 20px;
     grid-column: 1 / 6;
-    
+
     overflow: auto;
     white-space:nowrap;
     scroll-padding: 50%;
@@ -369,7 +370,3 @@ a:hover>div {
   z-index: -1;
   padding: 40px;
 }
-
-.carouselimage {
-  
-
