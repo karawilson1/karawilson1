@@ -61,6 +61,7 @@ p {
 img {
   height: 60vh;
   max-width: auto;
+  margin: 20px;
 }
 
 .allprojects {
