@@ -62,6 +62,7 @@ img {
   width: 60vw;
   max-height: auto;
   margin: 20px;
+  border: 2px black solid;
 }
 
 .allprojects {
