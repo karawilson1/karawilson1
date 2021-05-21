@@ -70,6 +70,16 @@ img {
   z-index: -1;
 }
 
+.allprojects {
+  align-items: left;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .highlight {
   font-family: whyte;
   font-weight: 300;
