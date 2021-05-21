@@ -47,6 +47,8 @@ h3 {
   color: black;
   margin: 20px;
   font-weight: 500;
+  max-width: 60%;
+  margin-left: 300px;
 }
 
 p {
