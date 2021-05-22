@@ -58,7 +58,7 @@ p {
   overflow-wrap: break-word;
 }
 
-.description {
+#description {
   margin: 20px;
   max-width: 70vw;
 }
