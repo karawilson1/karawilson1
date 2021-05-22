@@ -85,7 +85,7 @@ img {
   width: auto;
   z-index: -1;
   grid-column: 1 / 4;
-  margin-left: 50vw;
+  margin-left: 50%;
 
   overflow: auto;
   white-space:nowrap;
