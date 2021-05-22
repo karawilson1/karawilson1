@@ -108,6 +108,12 @@ img {
   margin: 20px;
 }
 
+.metacontainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 
 .project {
   padding: 10px;
