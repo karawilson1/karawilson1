@@ -110,6 +110,7 @@ height: 50%;
     flex-direction: row;
     flex-wrap: wrap;
     padding: 50px;
+    position: sticky;
 }
 
 ::selection {
