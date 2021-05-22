@@ -112,7 +112,7 @@ height: 120%;
 .nav {
     font-family: whyte;
     font-size: 12px;
-    align-items: left;
+    align-items: right;
     display: flex;
     flex-direction: column;
     padding: 20px;
