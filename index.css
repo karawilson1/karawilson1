@@ -144,7 +144,7 @@ a:hover {
   }
 
 .tweet {
-  display: hidden;
+  display: none;
 }
 
   h3 {
