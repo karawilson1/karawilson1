@@ -79,6 +79,21 @@ img {
   margin-left: 0px;
 }
 
+.dinnerpartycontainer {
+  align-items: left;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 20px;
+  width: 100vw;
+  margin-left: 20px;
+}
+
+.dinnerpartyphoto {
+  width: 60vw;
+  padding: 10px;
+}
+
 .project {
   padding: 10px;
 }
