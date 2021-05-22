@@ -97,7 +97,7 @@ img {
   scroll-padding: 50%;
 }
 
-#container .slidephoto {
+#container .slide {
 height: 150%;
  width: auto;
  object-fit: contain;
