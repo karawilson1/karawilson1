@@ -105,6 +105,12 @@ height: 120%;
  padding: 10px;
 }
 
+.content {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+
 .project {
   padding: 10px;
 }
