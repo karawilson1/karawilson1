@@ -82,6 +82,8 @@ img {
 #container {
   height: 100vh;
   max-height: 100%;
+  display: flex;
+  flex-direction: row;
   width: auto;
   z-index: -1;
   grid-column: 1 / 4;
@@ -93,7 +95,7 @@ img {
 }
 
 #container .slide {
-height: 150%;
+ height: 150%;
  width: auto;
  object-fit: contain;
  display: inline-block;
@@ -101,8 +103,8 @@ height: 150%;
 }
 
 #container .description {
-  margin: 20px;
-  max-width: 40vw;
+  height: 150%;
+  width: auto;
 }
 
 .project {
