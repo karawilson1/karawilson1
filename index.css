@@ -103,9 +103,8 @@ img {
  padding: 10px;
 }
 
-#container .description {
-  height: 150%;
-  width: auto;
+.description {
+  width: 40vw;
 }
 
 .project {
