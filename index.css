@@ -60,6 +60,7 @@ p {
 
 .footnotes {
   margin: 20px;
+  max-width: 100%;
 }
 
 img {
