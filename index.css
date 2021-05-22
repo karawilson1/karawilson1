@@ -137,6 +137,10 @@ a:hover {
     color: black;
   }
 
+.tweet {
+  display: hidden;
+}
+
   h3 {
     color: black;
     font-size: 16px;
