@@ -96,7 +96,7 @@ img {
 }
 
 #container .slide {
- height: 150%;
+ height: 120%;
  width: auto;
  object-fit: contain;
  display: inline-block;
@@ -112,6 +112,7 @@ img {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  margin: 20px;
 }
 
 .project {
