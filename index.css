@@ -103,9 +103,15 @@ img {
  padding: 10px;
 }
 
-.description {
+#description {
   width: 40vw;
-  margin: 20px; 
+  margin: 20px;
+}
+
+.metacontainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .project {
