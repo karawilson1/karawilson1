@@ -85,7 +85,7 @@ img {
   width: auto;
   z-index: -1;
   grid-column: 1 / 4;
-  margin-left: 50%;
+  margin-left: 50vw;
 
   overflow: auto;
   white-space:nowrap;
@@ -94,7 +94,7 @@ img {
 }
 
 #container .slide {
- height: 50%;
+ height: 70%;
  width: auto;
  object-fit: contain;
  display: inline-block;
