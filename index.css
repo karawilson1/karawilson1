@@ -109,7 +109,9 @@ height: 120%;
   display: flex;
   flex-direction: row;
   padding: 20px;
+  overflow: auto;
   scroll-snap-type: x mandatory;
+  scroll-padding: 50%;
 }
 
 .project {
