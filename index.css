@@ -85,6 +85,9 @@ img {
   width: auto;
   z-index: -1;
   grid-column: 1 / 4;
+  position: absolute:
+  top: 100px;
+  left: 400px; 
 
   overflow: auto;
   white-space:nowrap;
