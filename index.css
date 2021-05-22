@@ -58,6 +58,10 @@ p {
   overflow-wrap: break-word;
 }
 
+.footnotes {
+  margin: 20px;
+}
+
 img {
   width: 40vw;
   max-height: auto;
