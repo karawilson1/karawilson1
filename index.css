@@ -105,6 +105,7 @@ img {
 
 .description {
   width: 40vw;
+  margin: 20px; 
 }
 
 .project {
