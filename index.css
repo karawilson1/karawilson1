@@ -95,8 +95,8 @@ img {
 }
 
 .circle {
-  height: 100px;
-  width: 100px;
+  height: 60px;
+  width: 60px;
   border-radius: 1000px;
   color: black;
   background-color: black;
