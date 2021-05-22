@@ -114,12 +114,11 @@ height: 120%;
     font-size: 12px;
     align-items: left;
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column;
     padding: 20px;
-    position: sticky;
-    top: 10px;
-    left: 20px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
 }
 
 ::selection {
