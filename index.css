@@ -106,14 +106,11 @@ img {
 #description {
   width: 40vw;
   margin: 20px;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  z-index: 1; 
 }
-
-.metacontainer {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
 
 .project {
   padding: 10px;
