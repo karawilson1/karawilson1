@@ -105,12 +105,17 @@ height: 50%;
 }
 
 .nav {
+    font-family: whyte;
+    font-size: 12px;
     align-items: left;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     padding: 50px;
     position: sticky;
+    top: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 ::selection {
