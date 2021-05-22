@@ -93,7 +93,7 @@ img {
 }
 
 #container .slidephoto {
-height: 60%;
+height: 90%;
  width: auto;
  object-fit: contain;
  display: inline-block;
@@ -111,7 +111,7 @@ height: 60%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: 50px;
+    padding: 100px;
     position: sticky;
     top: 10px;
     margin-left: auto;
