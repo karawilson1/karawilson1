@@ -221,7 +221,7 @@ a:hover {
   }
 
   #container .slide {
-   height: 100%;
+   height: 150%;
    width: auto;
    object-fit: contain;
    display: inline-block;
