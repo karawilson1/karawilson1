@@ -145,17 +145,6 @@ img {
   z-index: 1;
 }
 
-.circle {
-  height: 40px;
-  width: 40px;
-  border-radius: 1000px;
-  color: black;
-  background-color: black;
-  padding: 20px;
-  position: absolute;
-  top: 20px;
-  right: 10px;
-}
 
 .emailme {
   font-family: whyte;
