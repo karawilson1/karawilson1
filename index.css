@@ -126,9 +126,6 @@ img {
     right: 20px;
 }
 
-.galleryscroll {
-  margin: 0px 0px 0px 20px;
-}
 
 ::selection {
     color: white;
@@ -145,6 +142,7 @@ img {
   max-width: 10vw;
   overflow-wrap: break-word;
   text-align: right;
+  z-index: 1;
 }
 
 .circle {
