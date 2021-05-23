@@ -220,4 +220,13 @@ a:hover {
     scroll-padding: 50%;
   }
 
+  #container .slide {
+   height: 100%;
+   width: auto;
+   object-fit: contain;
+   display: inline-block;
+   z-index: -1;
+   padding: 10px;
+  }
+
 }
