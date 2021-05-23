@@ -152,7 +152,7 @@ img {
   position: absolute;
   bottom: 10px;
   right: 10px;
-  max-width: 10vw;
+  max-width: 30vw;
   overflow-wrap: break-word;
   text-align: right;
   z-index: 1;
