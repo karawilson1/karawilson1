@@ -145,12 +145,6 @@ img {
   z-index: 1;
 }
 
-.scrollsideways {
-  position: absolute;
-  bottom: 20px;
-  right: 20px;
-}
-
 .circle {
   height: 40px;
   width: 40px;
