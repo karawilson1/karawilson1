@@ -145,6 +145,19 @@ img {
   z-index: 1;
 }
 
+.scrollsideways {
+  font-family: whyte;
+  font-size: 14px;
+  color: black;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  max-width: 10vw;
+  overflow-wrap: break-word;
+  text-align: right;
+  z-index: 1;
+}
+
 
 .emailme {
   font-family: whyte;
