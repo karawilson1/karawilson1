@@ -229,4 +229,10 @@ a:hover {
    padding: 10px;
   }
 
+.nav {
+  position: absolute;
+  top: 40px;
+  right: 20px;
+}
+
 }
