@@ -177,7 +177,7 @@ a:hover {
 }
 
 .interaction {
-  display: none;
+  display: hidden;
 }
 
 @media (max-width: 800px) {
