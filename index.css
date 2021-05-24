@@ -39,7 +39,6 @@ h1 {
   line-height: 120px;
 }
 
-
 h3 {
   font-family: whyte;
   font-weight: 100;
@@ -177,6 +176,9 @@ a:hover {
   color: white;
 }
 
+.interaction {
+  display: hidden;
+}
 
 @media (max-width: 800px) {
 
