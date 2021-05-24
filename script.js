@@ -1,3 +1,3 @@
-setInterval(function () {
+setTimeout(function () {
     $(".interaction").show()
 }, 3000);
