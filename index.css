@@ -176,9 +176,6 @@ a:hover {
   color: white;
 }
 
-.interaction {
-  display: hidden;
-}
 
 @media (max-width: 800px) {
 
