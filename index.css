@@ -58,6 +58,8 @@ p {
 }
 
 .footnotes {
+  font-family: whyte;
+  font-size: 14px;
   margin: 20px;
   width: 100%;
 }
@@ -124,7 +126,6 @@ img {
     top: 20px;
     right: 20px;
 }
-
 
 ::selection {
     color: white;
