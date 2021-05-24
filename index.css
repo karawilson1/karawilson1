@@ -178,6 +178,8 @@ a:hover {
 
 .interaction {
   max-width: 100vw;
+  object-fit: contain;
+  position: sticky;
 }
 
 @media (max-width: 800px) {
