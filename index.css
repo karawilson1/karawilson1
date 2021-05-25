@@ -153,12 +153,15 @@ img {
 }
 
 #description {
+  font-family: whyte;
+  font-size: 14px;
   width: 30vw;
   margin: 20px;
   position: absolute;
   top: 100px;
   left: 20px;
   z-index: 1;
+  color: black;
 }
 
 .projectdescription {
