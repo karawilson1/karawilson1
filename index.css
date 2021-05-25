@@ -208,7 +208,7 @@ img {
   font-family: whyte;
   font-size: 20px;
   color: black;
-  position: sticky;
+  position: absolute;
   bottom: 10px;
   right: 10px;
   max-width: 30vw;
