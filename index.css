@@ -36,8 +36,6 @@ h1 {
   margin: 10px 10px 10px 20px;
   width: 100%;
   line-height: 120px;
-  filter: invert(1);
-  mix-blend-mode: difference;
 }
 
 h3 {
@@ -48,8 +46,6 @@ h3 {
   font-weight: 500;
   max-width: 50%;
   margin-left: 20px;
-  filter: invert(1);
-  mix-blend-mode: difference;
 }
 
 p {
@@ -58,8 +54,6 @@ p {
   color: black;
   width: 40vw;
   overflow-wrap: break-word;
-  filter: invert(1);
-  mix-blend-mode: difference;
 }
 
 #canvas {
