@@ -136,7 +136,7 @@ img {
   top: 100px;
   left: 20px;
   z-index: 1;
-  filter: none; 
+  filter: none;
 }
 
 .project {
@@ -247,7 +247,6 @@ a:hover {
       color: black;
       width: 40vw;
       overflow-wrap: break-word;
-      filter: none;
 }
 
 .instructions {
