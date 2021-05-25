@@ -32,7 +32,7 @@ let coord = {x:0 , y:0};
 // trigger drawing
 let paint = false;
 
-// Updates the coordianates of the cursor when
+// Updates the coordinates of the cursor when
 // an event e is triggered to the coordinates where
 // the said event is triggered.
 function getPosition(event){
@@ -49,6 +49,7 @@ function startPainting(event){
 function stopPainting() {
   paint = false;
 }
+
 
 function sketch(event) {
   if (!paint) return;
