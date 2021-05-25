@@ -246,8 +246,9 @@ a:hover {
       color: black;
       width: 40vw;
       overflow-wrap: break-word;
+}
 
-.tweet {
+.instructions {
   display: none;
 }
 
