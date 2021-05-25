@@ -7,5 +7,5 @@ window.onload=function showInteraction()  //executes when the page finishes load
 
 function showInteraction()
 {
-	document.getElementById("#interaction").className=".show";
+	document.getElementById("#interaction").addClass=".show";
 }
