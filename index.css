@@ -76,14 +76,6 @@ h3 {
 }
 
 p {
-    font-family: whyte;
-    font-size: 14px;
-    color: black;
-    width: 40vw;
-    overflow-wrap: break-word;
-}
-
-.homepagep {
   font-family: whyte;
   font-size: 14px;
   color: black;
@@ -167,6 +159,12 @@ img {
   top: 100px;
   left: 20px;
   z-index: 1;
+}
+
+.projectdescription {
+  font-family: whyte;
+  font-size: 14px;
+  color: black;
 }
 
 .project {
