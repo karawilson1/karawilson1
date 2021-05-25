@@ -246,7 +246,6 @@ a:hover {
       color: black;
       width: 40vw;
       overflow-wrap: break-word;
-      filter: none;
 }
 
 .instructions {
@@ -257,7 +256,6 @@ a:hover {
     color: black;
     font-size: 16px;
     max-width: 100%;
-    filter: none;
   }
 
   #description {
