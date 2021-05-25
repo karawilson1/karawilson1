@@ -246,17 +246,12 @@ a:hover {
       color: black;
       width: 40vw;
       overflow-wrap: break-word;
+      filter: none;
 }
 
 .instructions {
   display: none;
 }
-
-  h3 {
-    color: black;
-    font-size: 16px;
-    max-width: 100%;
-  }
 
   #description {
     width: 100vw;
