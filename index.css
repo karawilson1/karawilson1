@@ -286,6 +286,10 @@ a:hover {
    padding: 10px;
   }
 
+#canvas {
+  display: none; 
+}
+
 .nav {
   position: absolute;
   top: 40px;
