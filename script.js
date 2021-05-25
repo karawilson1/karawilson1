@@ -8,8 +8,6 @@ setTimeout(function() {
 window.addEventListener('load', ()=>{
 
 	resize(); // Resizes the canvas once the window loads
-  document.addEventListener('mousedown', startPainting);
-  document.addEventListener('mouseup', stopPainting);
   document.addEventListener('mousemove', sketch);
 	window.addEventListener('resize', resize);
 });
@@ -32,7 +30,7 @@ let coord = {x:0 , y:0};
 // trigger drawing
 let paint = false;
 
-// Updates the coordianates of the cursor when
+// Updates the coordinates of the cursor when
 // an event e is triggered to the coordinates where
 // the said event is triggered.
 function getPosition(event){
@@ -42,13 +40,6 @@ coord.y = event.clientY - canvas.offsetTop;
 
 // The following functions toggle the flag to start
 // and stop drawing
-function startPainting(event){
-  paint = true;
-  getPosition(event);
-}
-function stopPainting() {
-  paint = false;
-}
 
 function sketch(event) {
   if (!paint) return;
