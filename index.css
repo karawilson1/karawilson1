@@ -231,6 +231,22 @@ a:hover {
     line-height: 72px;
   }
 
+  h3 {
+    font-family: whyte;
+    font-weight: 100;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+    max-width: 50%;
+    margin-left: 20px;
+}
+    p {
+      font-family: whyte;
+      font-size: 14px;
+      color: black;
+      width: 40vw;
+      overflow-wrap: break-word;
+
 .tweet {
   display: none;
 }
