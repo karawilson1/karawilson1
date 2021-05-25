@@ -178,13 +178,19 @@ a:hover {
   color: white;
 }
 
-#interaction {
-  max-width: 100%;
+#interaction.hide {
+  display: none;
+}
+
+#interaction.show {
+  display: block;
   object-fit: contain;
   position: absolute;
   top: 120px;
-  z-index: -1;
+  z-index: 1;
+  max-width: 100%;
 }
+
 
 @media (max-width: 800px) {
 
