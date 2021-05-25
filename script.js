@@ -8,7 +8,9 @@ setTimeout(function() {
 window.addEventListener('load', ()=>{
 
 	resize(); // Resizes the canvas once the window loads
-	document.addEventListener('mousemove', startPainting);
+  document.addEventListener('mousedown', startPainting);
+  document.addEventListener('mouseup', stopPainting);
+  document.addEventListener('mousemove', sketch);
 	window.addEventListener('resize', resize);
 });
 
