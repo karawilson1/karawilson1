@@ -2,51 +2,79 @@ setTimeout(function() {
    $("#interaction").show();
  } , 4000);
 
- // create canvas element and append it to document body
- var canvas = document.createElement('canvas');
- document.body.appendChild(canvas);
+ // wait for the content of the window element
+// to load, then performs the operations.
+// This is considered best practice.
+window.addEventListener('load', ()=>{
 
- // some hotfixes... ( ≖_≖)
- document.body.style.margin = 0;
- canvas.style.position = 'fixed';
+	resize(); // Resizes the canvas once the window loads
+	document.addEventListener('mousedown', startPainting);
+	document.addEventListener('mouseup', stopPainting);
+	document.addEventListener('mousemove', sketch);
+	window.addEventListener('resize', resize);
+});
 
- // get canvas 2D context and set him correct size
- var ctx = canvas.getContext('2d');
- resize();
+const canvas = document.querySelector('#canvas');
 
- // last known position
- var pos = { x: 0, y: 0 };
+// Context for the canvas for 2 dimensional operations
+const ctx = canvas.getContext('2d');
 
- window.addEventListener('resize', resize);
- document.addEventListener('mousemove', draw);
- document.addEventListener('mousedown', setPosition);
- document.addEventListener('mouseenter', setPosition);
+// Resizes the canvas to the available size of the window.
+function resize(){
+ctx.canvas.width = window.innerWidth;
+ctx.canvas.height = window.innerHeight;
+}
 
- // new position from mouse event
- function setPosition(e) {
-   pos.x = e.clientX;
-   pos.y = e.clientY;
- }
+// Stores the initial position of the cursor
+let coord = {x:0 , y:0};
 
- // resize canvas
- function resize() {
-   ctx.canvas.width = window.innerWidth;
-   ctx.canvas.height = window.innerHeight;
- }
+// This is the flag that we are going to use to
+// trigger drawing
+let paint = false;
 
- function draw(e) {
-   // mouse left button must be pressed
-   if (e.buttons !== 1) return;
+// Updates the coordianates of the cursor when
+// an event e is triggered to the coordinates where
+// the said event is triggered.
+function getPosition(event){
+coord.x = event.clientX - canvas.offsetLeft;
+coord.y = event.clientY - canvas.offsetTop;
+}
 
-   ctx.beginPath(); // begin
+// The following functions toggle the flag to start
+// and stop drawing
+function startPainting(event){
+  paint = true;
+  getPosition(event);
+}
+function stopPainting() {
+  paint = false;
+}
 
-   ctx.lineWidth = 5;
-   ctx.lineCap = 'round';
-   ctx.strokeStyle = '#c0392b';
+function sketch(event) {
+  if (!paint) return;
+  ctx.beginPath();
 
-   ctx.moveTo(pos.x, pos.y); // from
-   setPosition(e);
-   ctx.lineTo(pos.x, pos.y); // to
+ctx.lineWidth = 5;
 
-   ctx.stroke(); // draw it!
- }
+// Sets the end of the lines drawn
+// to a round shape.
+ctx.lineCap = 'round';
+
+ctx.strokeStyle = 'blue';
+
+// The cursor to start drawing
+// moves to this coordinate
+ctx.moveTo(coord.x, coord.y);
+
+// The position of the cursor
+// gets updated as we move the
+// mouse around.
+getPosition(event);
+
+// A line is traced from start
+// coordinate to this coordinate
+ctx.lineTo(coord.x , coord.y);
+
+// Draws the line.
+ctx.stroke();
+}
