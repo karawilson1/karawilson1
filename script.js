@@ -56,7 +56,7 @@ function sketch(event) {
   if (!paint) return;
   ctx.beginPath();
 
-ctx.lineWidth = 40;
+ctx.lineWidth = 60;
 
 // Sets the end of the lines drawn
 // to a round shape.
