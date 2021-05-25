@@ -310,7 +310,7 @@ a:hover {
   }
 
   #container {
-    height: 100vh;
+    height: 50vh;
     max-height: 100%;
     width: auto;
     z-index: -1;
