@@ -25,6 +25,8 @@ ctx.canvas.width = window.innerWidth;
 ctx.canvas.height = window.innerHeight;
 }
 
+ctx.globalCompositeOperation='destination-over';
+
 // Stores the initial position of the cursor
 let coord = {x:0 , y:0};
 
