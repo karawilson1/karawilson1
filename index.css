@@ -66,6 +66,9 @@ p {
   font-family: whyte;
   font-size: 14px;
   color: black;
+  position: sticky;
+  top: 10px;
+  left: 10px; 
 }
 
 #canvas {
