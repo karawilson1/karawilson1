@@ -8,9 +8,7 @@ setTimeout(function() {
 window.addEventListener('load', ()=>{
 
 	resize(); // Resizes the canvas once the window loads
-	document.addEventListener('mousedown', startPainting);
-	document.addEventListener('mouseup', stopPainting);
-	document.addEventListener('mousemove', sketch);
+	document.addEventListener('mousemove', startPainting);
 	window.addEventListener('resize', resize);
 });
 
@@ -54,7 +52,7 @@ function sketch(event) {
   if (!paint) return;
   ctx.beginPath();
 
-ctx.lineWidth = 5;
+ctx.lineWidth = 10;
 
 // Sets the end of the lines drawn
 // to a round shape.
