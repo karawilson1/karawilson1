@@ -62,7 +62,7 @@ ctx.lineWidth = 60;
 // to a round shape.
 ctx.lineCap = 'round';
 
-ctx.strokeStyle = 'blue';
+ctx.strokeStyle = 'black';
 
 // The cursor to start drawing
 // moves to this coordinate
