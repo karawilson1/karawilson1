@@ -1,5 +1,8 @@
 setTimeout (function showInteraction() {
-  $(window).load(function() {
-    document.getElementById("#interaction").addClass=".show";
-  })
-}, 4000);
+    $(window).load(function() {
+  }, 4000)
+});
+
+function showInteraction() {
+  document.getElementById("#interaction").addClass=".show";
+};
