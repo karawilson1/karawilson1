@@ -58,8 +58,9 @@ p {
 }
 
 #canvas {
-  width: 100vw;
-  height: 100vh;
+  position: sticky;
+  top: 0px;
+  left: 0px; 
   z-index: -1;
 }
 
