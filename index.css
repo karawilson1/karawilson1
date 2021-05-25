@@ -57,6 +57,12 @@ p {
   overflow-wrap: break-word;
 }
 
+#canvas {
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+}
+
 .footnotes {
   font-family: whyte;
   font-size: 14px;
