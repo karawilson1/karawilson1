@@ -36,6 +36,19 @@ h1 {
   margin: 10px 10px 10px 20px;
   width: 100%;
   line-height: 120px;
+}
+
+.homepageh1 {
+  font-family: whyte, montserrat, sans-serif;
+  font-weight: 300;
+  font-size: 108px;
+  position: sticky;
+  top: 0px;
+  left: 20px;
+  color: black;
+  margin: 10px 10px 10px 20px;
+  width: 100%;
+  line-height: 120px;
   filter: invert(1);
   mix-blend-mode: difference;
 }
@@ -48,11 +61,29 @@ h3 {
   font-weight: 500;
   max-width: 50%;
   margin-left: 20px;
+}
+
+.homepageh3 {
+  font-family: whyte;
+  font-weight: 100;
+  font-size: 14px;
+  color: black;
+  font-weight: 500;
+  max-width: 50%;
+  margin-left: 20px;
   filter: invert(1);
   mix-blend-mode: difference;
 }
 
 p {
+    font-family: whyte;
+    font-size: 14px;
+    color: black;
+    width: 40vw;
+    overflow-wrap: break-word;
+}
+
+.homepagep {
   font-family: whyte;
   font-size: 14px;
   color: black;
@@ -136,7 +167,6 @@ img {
   top: 100px;
   left: 20px;
   z-index: 1;
-  filter: none;
 }
 
 .project {
