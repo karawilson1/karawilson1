@@ -178,11 +178,11 @@ a:hover {
   color: white;
 }
 
-#interaction.hide {
+#interaction .hide {
   display: none;
 }
 
-#interaction.show {
+#interaction .show {
   display: block;
   object-fit: contain;
   position: absolute;
