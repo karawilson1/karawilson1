@@ -275,6 +275,19 @@ a:hover {
     max-width: 50%;
     margin-left: 20px;
 }
+
+.homepageh3 {
+  font-family: whyte;
+  font-weight: 100;
+  font-size: 14px;
+  color: black;
+  font-weight: 500;
+  max-width: 100%;
+  margin-left: 20px;
+  filter: invert(1);
+  mix-blend-mode: difference;
+}
+
     p {
       font-family: whyte;
       font-size: 14px;
