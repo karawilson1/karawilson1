@@ -1,6 +1,6 @@
 setTimeout (function showInteraction() {
     $(window).load(function() {
-  }, 4000)
+  }, 4000);
 });
 
 function showInteraction() {
