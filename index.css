@@ -21,7 +21,7 @@ body {
   margin: 0px auto;
   color: #E5E5E5;
   text-align: left;
-  position: center;
+  position: absolute;
   overflow-x: hidden;
 }
 
