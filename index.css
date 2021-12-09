@@ -34,9 +34,13 @@ body {
   font-size: 18px;
   line-height: 21.6px;
   color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
   background-color: #FF8F60;
   border: 1px, solid, #000000;
-  margin-right: 0px;
+  position: absolute;
+  left: 720px;
   padding: 100px;
 }
 
