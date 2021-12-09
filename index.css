@@ -40,15 +40,14 @@ body {
   align-items: flex-start;
   background-color: #FF8F60;
   border: 1px, solid, #000000;
-  position: absolute;
   left: 50%;
-  top: 0px;
   padding: 100px;
 }
 
 .bottombar {
   font-family: 'bradfordregular';
   background-color: #B1B983;
+
 }
 
 .mostrecentread {
