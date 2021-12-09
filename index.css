@@ -27,6 +27,7 @@ body {
   margin: 0px auto;
   color: #F4F2EB;
   text-align: left;
+  scroll-snap-stop: always;
 }
 
 .introduction {
