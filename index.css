@@ -46,12 +46,12 @@ body {
 }
 
 .bottombar {
-  font-family: bradfordregular;
+  font-family: 'bradfordregular';
   background-color: #B1B983;
 }
 
 .mostrecentread {
-  font-family: bradfordregular;
+  font-family: 'bradfordregular';
   letter-spacing: 8%;
 }
 
