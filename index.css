@@ -180,3 +180,18 @@ a {
   color: black;
   font-size: 28px;
 }
+
+
+@media (max-width: 600px) {
+  .literarybaby {
+    font-family: 'bradfordmediumitalic', 'baskerville';
+    font-size: 75px;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: fixed;
+    display: flex;
+    width: 100vw;
+    text-align: center;
+    line-height: 80px;
+  }
