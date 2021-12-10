@@ -66,6 +66,9 @@ body {
   width: 100vw;
 }
 
+.bottombar:hover {
+  background-color: #0029ff;
+
 .mostrecentread {
   font-family: 'bradfordregular', 'baskerville';
   color: black;
