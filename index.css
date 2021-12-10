@@ -1,13 +1,13 @@
 
 @font-face {
   font-family: 'bradfordregular';
-  src: url('docs/BradfordTrial-Regular.otf')
+  src: url('docs/BradfordTrial-Regular.otf');
   font-style: normal;
 }
 
 @font-face {
   font-family: 'bradfordmediumitalic';
-  src: url('docs/BradfordTrial-MediumItalic.otf')
+  src: url('docs/BradfordTrial-MediumItalic.otf');
   font-style: normal;
 }
 
