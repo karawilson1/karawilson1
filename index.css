@@ -27,6 +27,7 @@ body {
   top: 40px;
   position: fixed;
   width: 50vw;
+  text-align: center;
 }
 
 .introduction {
