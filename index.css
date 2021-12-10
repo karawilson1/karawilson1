@@ -195,3 +195,16 @@ a {
     text-align: center;
     line-height: 80px;
   }
+
+  .introduction {
+    font-family: 'bradfordregular', 'baskerville';
+    font-size: 18px;
+    line-height: 21.6px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    border-left: none;
+    max-width: 80vw;
+    text-align: left;
+    z-index: 0;
+  }
