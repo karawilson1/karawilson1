@@ -54,6 +54,7 @@ a {
 }
 
 .nav {
+  display: inline;
   padding: 40px;
 }
 
