@@ -45,7 +45,7 @@ body {
 }
 
 .bottombar {
-  font-family: 'bradfordregular';
+  font-family: 'bradfordregular', 'baskerville';
   background-color: #B1B983;
   z-index: 1;
   padding-left: 180px;
@@ -58,18 +58,18 @@ body {
 }
 
 .mostrecentread {
-  font-family: 'bradfordregular';
+  font-family: 'bradfordregular', 'baskerville';
   letter-spacing: 8%;
   color: black;
 }
 
 .book {
-  font-family: 'bradfordregular';
+  font-family: 'bradfordregular', 'baskerville';
   color: black;
 }
 
 .byline {
-  font-family: 'bradfordregular';
+  font-family: 'bradfordregular', 'baskerville';
   color: black;
 }
 
