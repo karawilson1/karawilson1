@@ -17,6 +17,7 @@ body {
   top: 124px;
   filter: invert(1);
   display: flex;
+  z-index: 1;
 }
 
 .baby {
@@ -27,6 +28,7 @@ body {
   top: 496px;
   filter: invert(1);
   display: flex;
+  z-index: 1;
 }
 
 .introduction {
