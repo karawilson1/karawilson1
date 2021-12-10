@@ -15,8 +15,6 @@ body {
   font-size: 160px;
   color: black;
   top: 124px;
-  filter: invert(1);
-  display: flex;
   z-index: 1;
 }
 
@@ -26,8 +24,6 @@ body {
   font-size: 160px;
   color: black;
   top: 496px;
-  filter: invert(1);
-  display: flex;
   z-index: 1;
 }
 
