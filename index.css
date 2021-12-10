@@ -150,10 +150,11 @@ a {
   left: 64px;
 }
 
+/*archive*/
 .yearcontainer {
   max-width: 560px;
   display: inline-flex;
-  left: 30%;
+  left: 100px;
   flex-direction: column;
 }
 
@@ -165,7 +166,6 @@ a {
 
 .bookcontainer {
   text-align: left;
-  padding: 40px;
 }
 
 .booktitle {
@@ -180,6 +180,7 @@ a {
   font-size: 28px;
 }
 
+/*review page*/
 .review {
   font-family: 'bradfordregular', 'baskerville';
   font-size: 18px;
