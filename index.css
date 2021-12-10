@@ -33,7 +33,7 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   margin-bottom: 0px;
-  position: sticky;
+  position: fixed;
   border-top: border: 1px, solid, #000000;
 }
 
@@ -51,18 +51,6 @@ body {
 .byline {
   font-family: 'bradfordregular';
   color: black;
-}
-
-.homepageh3 {
-  font-family: whyte;
-  font-weight: 100;
-  font-size: 14px;
-  color: black;
-  font-weight: 500;
-  max-width: 50%;
-  margin-left: 20px;
-  filter: invert(1);
-  mix-blend-mode: difference;
 }
 
 p {
