@@ -115,6 +115,7 @@ a {
   font-family: 'bradfordmediumitalic', 'baskerville';
   color: black;
   font-size: 60px;
+  line-height: 100%;
   text-align: left;
   position: fixed;
   top: 40px;
