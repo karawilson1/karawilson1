@@ -28,6 +28,7 @@ body {
   position: fixed;
   width: 50vw;
   text-align: center;
+  line-height: 132px;
 }
 
 .introduction {
