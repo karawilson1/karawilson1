@@ -82,6 +82,7 @@ body {
   color: black;
   letter-spacing: 0px;
   text-align: center;
+  font-size: 14px;
 }
 
 .book {
@@ -94,6 +95,6 @@ body {
 .byline {
   font-family: 'bradfordregular', 'baskerville';
   color: black;
-  font-size: 14px;
+  font-size: 18px;
   text-align: center;
 }
