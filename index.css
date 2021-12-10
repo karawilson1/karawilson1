@@ -37,9 +37,7 @@ body {
   background-color: #FFAE8B;
   border-left: 1px, solid, #000000;
   max-width: 50%;
-  padding-left: auto;
-  padding-right: auto;
-  padding-top: 40px;
+  padding: 20px, 40px;
   z-index: 0;
   float: right;
 }
