@@ -180,6 +180,17 @@ a {
   font-size: 28px;
 }
 
+.review {
+    font-family: 'bradfordregular', 'baskerville';
+    font-size: 18px;
+    line-height: 21.6px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    max-width: 40%;
+    float: right;
+    text-align: left;
+}
 
 @media (max-width: 600px) {
   .literarybaby {
@@ -246,3 +257,16 @@ a {
     left: 20px;
     width: 10vw;
   }
+
+  .review {
+      font-family: 'bradfordregular', 'baskerville';
+      font-size: 18px;
+      line-height: 21.6px;
+      color: black;
+      display: flex;
+      flex-direction: column;
+      max-width: 90vw;
+      float: right;
+      text-align: left; 
+  }
+}
