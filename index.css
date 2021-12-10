@@ -208,7 +208,6 @@ a {
     border-left: none;
     max-width: 90vw;
     text-align: left;
-    z-index: 0;
   }
 
   .bottombar {
