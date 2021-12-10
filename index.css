@@ -63,12 +63,15 @@ body {
 
 .book {
   font-family: 'bradfordregular', 'baskerville';
+  font-style: italic;
   color: black;
+  font-size: 30px;
 }
 
 .byline {
   font-family: 'bradfordregular', 'baskerville';
   color: black;
+  font-size: 14px;
 }
 
 p {
