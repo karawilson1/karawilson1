@@ -20,13 +20,13 @@ body {
   background-color: #F4F2EB;
 }
 
-.literary {
+.literarybaby {
   font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 160px;
   color: black;
-  top: 124px;
-  left: 60px;
+  top: 40px;
   position: fixed;
+  width: 50vw;
 }
 
 .baby {
