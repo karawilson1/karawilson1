@@ -24,10 +24,7 @@
 
 body {
   font-weight: 300;
-  margin: 0px auto;
-  color: #F4F2EB;
-  text-align: left;
-  scroll-snap-stop: always;
+  background-color: #F4F2EB;
 }
 
 .introduction {
