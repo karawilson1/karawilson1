@@ -31,7 +31,7 @@ body {
   max-width: 50%;
   padding: 100px;
   z-index: 0;
-  float: right;
+  right: 0px;
 }
 
 .bottombar {
