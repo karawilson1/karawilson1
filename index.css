@@ -47,7 +47,9 @@ body {
 .bottombar {
   font-family: 'bradfordregular';
   background-color: #B1B983;
-
+  z-index: 1;
+  padding-left: 180px;
+  margin-bottom: 0px;
 }
 
 .mostrecentread {
