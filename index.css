@@ -5,13 +5,18 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'bradfordmediumitalic';
+  src: url('docs/BradfordTrial-MediumItalic.otf')
+  font-style: normal;
+}
+
 body {
   background-color: #F4F2EB;
 }
 
 .literary {
-  font-family: 'bradfordregular', 'baskerville';
-  font-style: italic;
+  font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 160px;
   color: black;
   top: 124px;
@@ -19,8 +24,7 @@ body {
 }
 
 .baby {
-  font-family: 'bradfordregular', 'baskerville';
-  font-style: italic;
+  font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 160px;
   color: black;
   top: 496px;
