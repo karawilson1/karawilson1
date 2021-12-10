@@ -9,6 +9,15 @@ body {
   color: #F4F2EB;
 }
 
+.literary {
+  font-family: 'bradfordregular';
+  font-size: 160px;
+  color: black;
+  float: left;
+  filter: invert(1);
+  display: flex;
+}
+
 .introduction {
   font-family: 'bradfordregular';
   font-size: 18px;
@@ -32,7 +41,7 @@ body {
   padding-left: 180px;
   padding-top: 20px;
   padding-bottom: 20px;
-  margin-bottom: 0px;
+  bottom: 0px;
   position: fixed;
   border-top: border: 1px, solid, #000000;
 }
