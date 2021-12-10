@@ -45,8 +45,7 @@ body {
   padding-right: auto;
   padding-top: 40px;
   z-index: 0;
-  top: 0px;
-  right: 0px;
+  float: right;
 }
 
 .bottombar {
