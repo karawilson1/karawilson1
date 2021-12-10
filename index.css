@@ -24,6 +24,7 @@ body {
   font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 150px;
   color: black;
+  padding-left: 40px; 
   top: 40px;
   position: fixed;
   width: 50vw;
