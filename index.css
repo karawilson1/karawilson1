@@ -41,7 +41,9 @@ body {
   background-color: #FF8F60;
   border-left: 1px, solid, #000000;
   max-width: 50%;
-  padding: 100px;
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 40px;
   z-index: 0;
   top: 0px;
   right: 0px;
