@@ -40,6 +40,14 @@ body {
   height: 40px;
 }
 
+.archivebutton:hover {
+  font-family: 'bradfordregular', 'baskerville';
+  font-size: 14px;
+  background-color: #F4F2EB;
+  color: black;
+  border: 1px solid #000000;
+}
+
 .baskerville {
   font-family: baskerville;
   display: inline-block;
