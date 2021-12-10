@@ -53,6 +53,10 @@ a {
   float: right;
 }
 
+.nav {
+  padding: 40px;
+}
+
 .baskerville {
   font-family: baskerville;
   display: inline-block;
