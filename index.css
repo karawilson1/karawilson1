@@ -33,7 +33,8 @@ body {
 
 .divider {
   width: 60px;
-  height: 10px; 
+  height: 10px;
+  margin: 40px;
 }
 
 .introduction {
