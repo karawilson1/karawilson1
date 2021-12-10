@@ -11,6 +11,11 @@
   font-style: normal;
 }
 
+::selection {
+  background-color: black;
+  color: white;
+}
+
 body {
   background-color: #F4F2EB;
 }
