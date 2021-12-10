@@ -39,6 +39,14 @@ body {
   right: 64px;
 }
 
+.backtomain {
+  font-family: 'bradfordregular', 'baskerville';
+  font-size: 14px;
+  color: black
+  top: 40px;
+  right: 64px;
+}
+
 .baskerville {
   font-family: baskerville;
   display: inline-block;
