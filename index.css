@@ -47,8 +47,8 @@ body {
   background-color: #D4DD9E;
   z-index: 1;
   padding-left: 10vw;
-  padding-top: auto;
-  padding-bottom: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
   bottom: 0px;
   position: fixed;
   border-top: 1px, solid, #000000;
