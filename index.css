@@ -59,6 +59,17 @@ body {
 .mostrecentread {
   font-family: 'bradfordregular';
   letter-spacing: 8%;
+  color: black;
+}
+
+.book {
+  font-family: 'bradfordregular';
+  color: black;
+}
+
+.byline {
+  font-family: 'bradfordregular';
+  color: black;
 }
 
 .homepageh3 {
