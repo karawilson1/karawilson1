@@ -20,7 +20,7 @@ body {
   font-size: 160px;
   color: black;
   top: 124px;
-  z-index: 1;
+  position: fixed;
 }
 
 .baby {
@@ -28,7 +28,7 @@ body {
   font-size: 160px;
   color: black;
   top: 496px;
-  z-index: 1;
+  position: fixed;
 }
 
 .introduction {
