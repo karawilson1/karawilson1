@@ -45,6 +45,11 @@ a {
   color: black;
 }
 
+a:hover {
+  background-color: #ff6e2f;
+  font-style: italic;
+}
+
 .backtomain {
   font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 14px;
