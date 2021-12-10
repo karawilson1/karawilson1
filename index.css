@@ -42,6 +42,7 @@ body {
 
 .baskerville {
   font-family: baskerville;
+  display: inline-block;
 }
 
 .introduction {
