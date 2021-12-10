@@ -29,15 +29,6 @@ body {
   width: 50vw;
 }
 
-.baby {
-  font-family: 'bradfordmediumitalic', 'baskerville';
-  font-size: 160px;
-  color: black;
-  top: 280px;
-  left: 160px;
-  position: fixed;
-}
-
 .introduction {
   font-family: 'bradfordregular', 'baskerville';
   font-size: 18px;
