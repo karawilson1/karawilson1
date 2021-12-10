@@ -181,15 +181,18 @@ a {
 }
 
 .review {
-    font-family: 'bradfordregular', 'baskerville';
-    font-size: 18px;
-    line-height: 21.6px;
-    color: black;
-    display: flex;
-    flex-direction: column;
-    max-width: 40%;
-    float: right;
-    text-align: left;
+  font-family: 'bradfordregular', 'baskerville';
+  font-size: 18px;
+  line-height: 21.6px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  max-width: 40%;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 40px;
+  z-index: 0;
+  float: right;
 }
 
 @media (max-width: 600px) {
@@ -267,6 +270,6 @@ a {
       flex-direction: column;
       max-width: 90vw;
       float: right;
-      text-align: left; 
+      text-align: left;
   }
 }
