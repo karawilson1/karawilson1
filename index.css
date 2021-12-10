@@ -194,6 +194,8 @@ a {
     width: 100vw;
     text-align: center;
     line-height: 80px;
+    filter: invert(1);
+    mix-blend-mode: difference;
   }
 
   .introduction {
