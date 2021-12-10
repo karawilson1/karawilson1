@@ -23,7 +23,6 @@
 }
 
 body {
-  font-weight: 300;
   background-color: #F4F2EB;
 }
 
@@ -36,7 +35,7 @@ body {
   flex-direction: column;
   align-items: flex-start;
   background-color: #FF8F60;
-  border: 1px, solid, #000000;
+  border-left: 1px, solid, #000000;
   margin-right: 0px;
   max-width: 50%;
   padding: 100px;
@@ -51,6 +50,7 @@ body {
   padding-bottom: 20px;
   margin-bottom: 0px;
   position: sticky;
+  border-top: border: 1px, solid, #000000;
 }
 
 .mostrecentread {
