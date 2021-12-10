@@ -67,6 +67,7 @@ body {
 .mostrecentread {
   font-family: 'bradfordregular', 'baskerville';
   color: black;
+  letter-spacing: 0px;
 }
 
 .book {
