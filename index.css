@@ -10,16 +10,27 @@ body {
 }
 
 .literary {
-  font-family: 'bradfordregular';
+  font-family: 'bradfordregular', 'baskerville';
+  font-style: italic;
   font-size: 160px;
   color: black;
-  float: left;
+  top: 124px;
+  filter: invert(1);
+  display: flex;
+}
+
+.baby {
+  font-family: 'bradfordregular', 'baskerville';
+  font-style: italic;
+  font-size: 160px;
+  color: black;
+  top: 496px;
   filter: invert(1);
   display: flex;
 }
 
 .introduction {
-  font-family: 'bradfordregular';
+  font-family: 'bradfordregular', 'baskerville';
   font-size: 18px;
   line-height: 21.6px;
   color: black;
