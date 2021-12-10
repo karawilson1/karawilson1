@@ -16,7 +16,7 @@ body {
   color: black;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: stretch;
   background-color: #FF8F60;
   border-left: 1px, solid, #000000;
   max-width: 50%;
