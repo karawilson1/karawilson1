@@ -142,3 +142,33 @@ a {
   bottom: 40px;
   left: 64px;
 }
+
+.yearcontainer {
+  max-width: 560px;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.year {
+  font-family: 'couriernew';
+  font-size: 12px;
+  color: black;
+}
+
+.bookcontainer {
+  text-align: left;
+  padding: 40px;
+}
+
+.booktitle {
+  font-family: 'bradfordmediumitalic', 'baskerville';
+  font-size: 60px;
+  color: black;
+  margin-bottom: 8px;
+}
+
+.authorname {
+  font-family: 'bradfordregular', 'baskerville';
+  color: black;
+  font-size: 28px;
+}
