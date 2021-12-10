@@ -38,6 +38,10 @@ body {
   color: black;
 }
 
+.baskerville {
+  font-family: baskerville;
+}
+
 .introduction {
   font-family: 'bradfordregular', 'baskerville';
   font-size: 18px;
