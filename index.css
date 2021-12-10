@@ -50,6 +50,7 @@ body {
   z-index: 1;
   padding-left: 180px;
   margin-bottom: 0px;
+  position: sticky; 
 }
 
 .mostrecentread {
